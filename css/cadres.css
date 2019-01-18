@@ -1,0 +1,93 @@
+/*========================== CADRE ====================*/
+
+#cadreMN{
+	position: relative;
+	width: 500px;
+	border: 2px solid #333333;
+	
+}
+
+#cadreMN .header{
+	width: 100%;
+	height:30px;
+	background-color: #cdcdcd;
+	text-align: center;
+	line-height: 30px;
+}
+
+#cadreMN .footer{
+	width: 100%;
+	height:20px;
+	line-height: 20px;
+	background-color: #cdcdcd;
+	text-align: center;
+	bottom: 0px;
+}
+#cadreMN .contenu{
+	border-left: solid 2px #428bca;
+	padding-left: 5px;
+	bottom: 0;
+	width: 80%;
+	position: relative;
+	margin: 10px;
+}
+
+#cadreMN .icone_l{
+	height: 30px;
+	width: 30px;
+	background-color: #ff55ee;
+	/*display: inline-block;*/
+	float: left;
+}
+
+#cadreMN .icone_r{
+	height: 30px;
+	width: 30px;
+	background-color: #ff55ee;
+	/*display: inline-block;*/
+	float: right;
+}
+
+/*================== TOOLBAR ==================*/
+
+#CadreAdminBarMN{
+	height: 24px;
+	width: 496px;
+	background-color: #333;/*#844848;*/
+}
+
+/*#CadreAdminBarMN .ParametreCadre{
+	width: 30px;
+	height: 32px;
+	margin-left: 2px;
+	margin-right:2px;
+	background-color: blue;
+}*/
+
+
+
+
+
+
+#CadreAdminBarMN .iconesPanel {margin-bottom:0px; width: 100%; height: 24px; border:0px solid #844848;}	
+
+#CadreAdminBarMN .iconesPanel a {display:block;height: 100%; text-decoration:none; }
+
+#CadreAdminBarMN .iconesPanel  .light_on { background: transparent url("../images/icones/ampoule_on.png") 0px 50%  no-repeat;}
+#CadreAdminBarMN .iconesPanel  .light_off { background: transparent url("../images/icones/ampoule_off.png") 0px 50%  no-repeat;}
+
+#CadreAdminBarMN .iconesPanel  .pictoLeft { float : left; width : 24px; height: 100%; color:#fff; line-height: 24px;}
+#CadreAdminBarMN .iconesPanel  .pictoRight { float : right; width : 24px; height: 100%; color:#fff; line-height: 24px;}
+
+#CadreAdminBarMN .iconesPanel  .icone_on { background: transparent url("../images/icones/icone.png") 0px 50%  no-repeat;}
+#CadreAdminBarMN .iconesPanel  .icone_off { background: transparent url("../images/icones/icone_off.png") 0px 50%  no-repeat;}
+
+#CadreAdminBarMN .iconesPanel  .header_on { background: transparent url("../images/icones/header.png") 0px 50%  no-repeat;}
+#CadreAdminBarMN .iconesPanel  .header_off { background: transparent url("../images/icones/header_off.png") 0px 50%  no-repeat;}
+
+#CadreAdminBarMN .iconesPanel  .footer_on { background: transparent url("../images/icones/footer.png") 0px 50%  no-repeat;}
+#CadreAdminBarMN .iconesPanel  .footer_off { background: transparent url("../images/icones/footer_off.png") 0px 50%  no-repeat;}
+
+#CadreAdminBarMN .iconesPanel  .border_on { background: transparent url("../images/icones/border.png") 0px 50%  no-repeat;}
+#CadreAdminBarMN .iconesPanel  .border_off { background: transparent url("../images/icones/border_off.png") 0px 50%  no-repeat;}
+

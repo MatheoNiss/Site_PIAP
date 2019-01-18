@@ -1,0 +1,24 @@
+.formulaire_connection{
+	width: 350px;
+}
+
+.meganav_b{
+	border-radius: 0px;
+	margin: 0px;
+	font-size: 17px;
+	min-height: 35px;
+	height: 35px;
+}
+
+.form-connection{
+	font-size: 5px;
+}
+
+.mdp{
+	font-size: 10px;
+}
+
+.copyright{
+	margin: 12px; 
+	font-size: 10px;
+}

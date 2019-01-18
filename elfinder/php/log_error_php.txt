@@ -1,0 +1,1729 @@
+[23-Aug-2016 16:24:06 UTC] PHP Notice:  Undefined index: valide in Z:\SiteTechnologie\vignettes.php on line 260
+[23-Aug-2016 16:24:06 UTC] PHP Stack trace:
+[23-Aug-2016 16:24:06 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 16:24:06 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 16:24:06 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:96
+[23-Aug-2016 16:24:06 UTC] PHP   4. afficheNouveauActeur() Z:\SiteTechnologie\acteurs_de_la_technologie.php:52
+[23-Aug-2016 16:24:06 UTC] PHP   5. Vignette->Vignette() Z:\SiteTechnologie\acteurs_de_la_technologie.php:43
+[23-Aug-2016 16:24:06 UTC] PHP Notice:  Undefined index: valide in Z:\SiteTechnologie\vignettes.php on line 260
+[23-Aug-2016 16:24:06 UTC] PHP Stack trace:
+[23-Aug-2016 16:24:06 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 16:24:06 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 16:24:06 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:106
+[23-Aug-2016 16:24:06 UTC] PHP   4. afficheNouveauActeur() Z:\SiteTechnologie\acteurs_de_la_technologie.php:52
+[23-Aug-2016 16:24:06 UTC] PHP   5. Vignette->Vignette() Z:\SiteTechnologie\acteurs_de_la_technologie.php:43
+[23-Aug-2016 16:24:06 UTC] PHP Notice:  Undefined index: valide in Z:\SiteTechnologie\vignettes.php on line 260
+[23-Aug-2016 16:24:06 UTC] PHP Stack trace:
+[23-Aug-2016 16:24:06 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 16:24:06 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 16:24:06 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:117
+[23-Aug-2016 16:24:06 UTC] PHP   4. afficheNouveauActeur() Z:\SiteTechnologie\acteurs_de_la_technologie.php:52
+[23-Aug-2016 16:24:06 UTC] PHP   5. Vignette->Vignette() Z:\SiteTechnologie\acteurs_de_la_technologie.php:43
+[23-Aug-2016 16:24:06 UTC] PHP Notice:  Undefined index: valide in Z:\SiteTechnologie\vignettes.php on line 260
+[23-Aug-2016 16:24:06 UTC] PHP Stack trace:
+[23-Aug-2016 16:24:06 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 16:24:06 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 16:24:06 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:125
+[23-Aug-2016 16:24:06 UTC] PHP   4. afficheNouveauActeur() Z:\SiteTechnologie\acteurs_de_la_technologie.php:52
+[23-Aug-2016 16:24:06 UTC] PHP   5. Vignette->Vignette() Z:\SiteTechnologie\acteurs_de_la_technologie.php:43
+[23-Aug-2016 16:24:06 UTC] PHP Notice:  Undefined index: valide in Z:\SiteTechnologie\vignettes.php on line 260
+[23-Aug-2016 16:24:06 UTC] PHP Stack trace:
+[23-Aug-2016 16:24:06 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 16:24:06 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 16:24:06 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:133
+[23-Aug-2016 16:24:06 UTC] PHP   4. afficheNouveauActeur() Z:\SiteTechnologie\acteurs_de_la_technologie.php:52
+[23-Aug-2016 16:24:06 UTC] PHP   5. Vignette->Vignette() Z:\SiteTechnologie\acteurs_de_la_technologie.php:43
+[23-Aug-2016 16:24:07 UTC] PHP Notice:  Undefined index: valide in Z:\SiteTechnologie\vignettes.php on line 260
+[23-Aug-2016 16:24:07 UTC] PHP Stack trace:
+[23-Aug-2016 16:24:07 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 16:24:07 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 16:24:07 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:142
+[23-Aug-2016 16:24:07 UTC] PHP   4. afficheNouveauActeur() Z:\SiteTechnologie\acteurs_de_la_technologie.php:52
+[23-Aug-2016 16:24:07 UTC] PHP   5. Vignette->Vignette() Z:\SiteTechnologie\acteurs_de_la_technologie.php:43
+[23-Aug-2016 16:24:07 UTC] PHP Notice:  Undefined index: valide in Z:\SiteTechnologie\vignettes.php on line 260
+[23-Aug-2016 16:24:07 UTC] PHP Stack trace:
+[23-Aug-2016 16:24:07 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 16:24:07 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 16:24:07 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:148
+[23-Aug-2016 16:24:07 UTC] PHP   4. afficheNouveauActeur() Z:\SiteTechnologie\acteurs_de_la_technologie.php:52
+[23-Aug-2016 16:24:07 UTC] PHP   5. Vignette->Vignette() Z:\SiteTechnologie\acteurs_de_la_technologie.php:43
+[23-Aug-2016 16:40:49 UTC] PHP Parse error:  syntax error, unexpected '.' in Z:\SiteTechnologie\vignettes.php on line 527
+[23-Aug-2016 16:40:49 UTC] PHP Stack trace:
+[23-Aug-2016 16:40:49 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 16:40:49 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 16:41:18 UTC] PHP Notice:  Undefined variable: functionToCallForDelete in Z:\SiteTechnologie\vignettes.php on line 404
+[23-Aug-2016 16:41:18 UTC] PHP Stack trace:
+[23-Aug-2016 16:41:18 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 16:41:18 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 16:41:18 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:97
+[23-Aug-2016 16:41:18 UTC] PHP   4. afficheNouveauActeur() Z:\SiteTechnologie\acteurs_de_la_technologie.php:53
+[23-Aug-2016 16:41:18 UTC] PHP   5. Vignette->displayVignette() Z:\SiteTechnologie\acteurs_de_la_technologie.php:45
+[23-Aug-2016 16:41:18 UTC] PHP   6. Vignette->drawVignette() Z:\SiteTechnologie\vignettes.php:557
+[23-Aug-2016 16:41:18 UTC] PHP   7. Vignette->drawPanelNewVignette() Z:\SiteTechnologie\vignettes.php:527
+[23-Aug-2016 16:41:18 UTC] PHP Notice:  Undefined variable: functionToCallForDelete in Z:\SiteTechnologie\vignettes.php on line 404
+[23-Aug-2016 16:41:18 UTC] PHP Stack trace:
+[23-Aug-2016 16:41:18 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 16:41:18 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 16:41:18 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:107
+[23-Aug-2016 16:41:18 UTC] PHP   4. afficheNouveauActeur() Z:\SiteTechnologie\acteurs_de_la_technologie.php:53
+[23-Aug-2016 16:41:18 UTC] PHP   5. Vignette->displayVignette() Z:\SiteTechnologie\acteurs_de_la_technologie.php:45
+[23-Aug-2016 16:41:18 UTC] PHP   6. Vignette->drawVignette() Z:\SiteTechnologie\vignettes.php:557
+[23-Aug-2016 16:41:18 UTC] PHP   7. Vignette->drawPanelNewVignette() Z:\SiteTechnologie\vignettes.php:527
+[23-Aug-2016 16:41:18 UTC] PHP Notice:  Undefined variable: functionToCallForDelete in Z:\SiteTechnologie\vignettes.php on line 404
+[23-Aug-2016 16:41:18 UTC] PHP Stack trace:
+[23-Aug-2016 16:41:18 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 16:41:18 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 16:41:18 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:118
+[23-Aug-2016 16:41:18 UTC] PHP   4. afficheNouveauActeur() Z:\SiteTechnologie\acteurs_de_la_technologie.php:53
+[23-Aug-2016 16:41:18 UTC] PHP   5. Vignette->displayVignette() Z:\SiteTechnologie\acteurs_de_la_technologie.php:45
+[23-Aug-2016 16:41:18 UTC] PHP   6. Vignette->drawVignette() Z:\SiteTechnologie\vignettes.php:557
+[23-Aug-2016 16:41:18 UTC] PHP   7. Vignette->drawPanelNewVignette() Z:\SiteTechnologie\vignettes.php:527
+[23-Aug-2016 16:41:18 UTC] PHP Notice:  Undefined variable: functionToCallForDelete in Z:\SiteTechnologie\vignettes.php on line 404
+[23-Aug-2016 16:41:18 UTC] PHP Stack trace:
+[23-Aug-2016 16:41:18 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 16:41:18 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 16:41:18 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:126
+[23-Aug-2016 16:41:18 UTC] PHP   4. afficheNouveauActeur() Z:\SiteTechnologie\acteurs_de_la_technologie.php:53
+[23-Aug-2016 16:41:18 UTC] PHP   5. Vignette->displayVignette() Z:\SiteTechnologie\acteurs_de_la_technologie.php:45
+[23-Aug-2016 16:41:18 UTC] PHP   6. Vignette->drawVignette() Z:\SiteTechnologie\vignettes.php:557
+[23-Aug-2016 16:41:18 UTC] PHP   7. Vignette->drawPanelNewVignette() Z:\SiteTechnologie\vignettes.php:527
+[23-Aug-2016 16:41:18 UTC] PHP Notice:  Undefined variable: functionToCallForDelete in Z:\SiteTechnologie\vignettes.php on line 404
+[23-Aug-2016 16:41:18 UTC] PHP Stack trace:
+[23-Aug-2016 16:41:18 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 16:41:18 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 16:41:19 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:134
+[23-Aug-2016 16:41:19 UTC] PHP   4. afficheNouveauActeur() Z:\SiteTechnologie\acteurs_de_la_technologie.php:53
+[23-Aug-2016 16:41:19 UTC] PHP   5. Vignette->displayVignette() Z:\SiteTechnologie\acteurs_de_la_technologie.php:45
+[23-Aug-2016 16:41:19 UTC] PHP   6. Vignette->drawVignette() Z:\SiteTechnologie\vignettes.php:557
+[23-Aug-2016 16:41:19 UTC] PHP   7. Vignette->drawPanelNewVignette() Z:\SiteTechnologie\vignettes.php:527
+[23-Aug-2016 16:41:19 UTC] PHP Notice:  Undefined variable: functionToCallForDelete in Z:\SiteTechnologie\vignettes.php on line 404
+[23-Aug-2016 16:41:19 UTC] PHP Stack trace:
+[23-Aug-2016 16:41:19 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 16:41:19 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 16:41:19 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:143
+[23-Aug-2016 16:41:19 UTC] PHP   4. afficheNouveauActeur() Z:\SiteTechnologie\acteurs_de_la_technologie.php:53
+[23-Aug-2016 16:41:19 UTC] PHP   5. Vignette->displayVignette() Z:\SiteTechnologie\acteurs_de_la_technologie.php:45
+[23-Aug-2016 16:41:19 UTC] PHP   6. Vignette->drawVignette() Z:\SiteTechnologie\vignettes.php:557
+[23-Aug-2016 16:41:19 UTC] PHP   7. Vignette->drawPanelNewVignette() Z:\SiteTechnologie\vignettes.php:527
+[23-Aug-2016 16:41:19 UTC] PHP Notice:  Undefined variable: functionToCallForDelete in Z:\SiteTechnologie\vignettes.php on line 404
+[23-Aug-2016 16:41:19 UTC] PHP Stack trace:
+[23-Aug-2016 16:41:19 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 16:41:19 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 16:41:19 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:149
+[23-Aug-2016 16:41:19 UTC] PHP   4. afficheNouveauActeur() Z:\SiteTechnologie\acteurs_de_la_technologie.php:53
+[23-Aug-2016 16:41:19 UTC] PHP   5. Vignette->displayVignette() Z:\SiteTechnologie\acteurs_de_la_technologie.php:45
+[23-Aug-2016 16:41:19 UTC] PHP   6. Vignette->drawVignette() Z:\SiteTechnologie\vignettes.php:557
+[23-Aug-2016 16:41:19 UTC] PHP   7. Vignette->drawPanelNewVignette() Z:\SiteTechnologie\vignettes.php:527
+[23-Aug-2016 20:30:14 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:14 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:14 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:14 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:14 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:98
+[23-Aug-2016 20:30:14 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:14 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:14 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:14 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:14 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:98
+[23-Aug-2016 20:30:14 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:14 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:14 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:15 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:15 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:98
+[23-Aug-2016 20:30:15 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:15 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:15 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:15 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:15 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:98
+[23-Aug-2016 20:30:15 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:15 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:15 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:15 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:15 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:98
+[23-Aug-2016 20:30:15 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:15 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:15 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:15 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:15 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:98
+[23-Aug-2016 20:30:15 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:15 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:15 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:15 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:15 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:98
+[23-Aug-2016 20:30:15 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:15 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:15 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:15 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:15 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:98
+[23-Aug-2016 20:30:15 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:15 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:15 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:15 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:15 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:98
+[23-Aug-2016 20:30:15 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:15 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:15 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:15 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:15 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:98
+[23-Aug-2016 20:30:15 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:15 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:15 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:15 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:15 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:98
+[23-Aug-2016 20:30:15 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:15 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:15 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:15 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:15 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:98
+[23-Aug-2016 20:30:15 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:15 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:15 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:15 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:15 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:98
+[23-Aug-2016 20:30:15 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:15 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:15 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:15 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:15 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:98
+[23-Aug-2016 20:30:15 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:15 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:15 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:15 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:15 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:98
+[23-Aug-2016 20:30:15 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:15 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:15 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:15 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:15 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:98
+[23-Aug-2016 20:30:15 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:15 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:15 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:15 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:15 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:98
+[23-Aug-2016 20:30:15 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:15 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:15 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:15 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:15 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:98
+[23-Aug-2016 20:30:15 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:15 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:15 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:15 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:15 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:98
+[23-Aug-2016 20:30:15 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:15 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:15 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:15 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:15 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:98
+[23-Aug-2016 20:30:15 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:15 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:15 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:15 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:15 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:98
+[23-Aug-2016 20:30:15 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:15 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:15 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:15 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:15 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:98
+[23-Aug-2016 20:30:15 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:15 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:15 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:15 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:15 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:108
+[23-Aug-2016 20:30:15 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:15 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:15 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:15 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:15 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:108
+[23-Aug-2016 20:30:15 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:15 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:15 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:15 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:15 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:108
+[23-Aug-2016 20:30:15 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:15 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:15 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:15 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:15 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:108
+[23-Aug-2016 20:30:16 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:16 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:16 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:16 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:16 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:108
+[23-Aug-2016 20:30:16 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:16 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:16 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:16 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:16 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:108
+[23-Aug-2016 20:30:16 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:16 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:16 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:16 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:16 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:108
+[23-Aug-2016 20:30:16 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:16 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:16 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:16 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:16 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:108
+[23-Aug-2016 20:30:16 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:16 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:16 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:16 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:16 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:108
+[23-Aug-2016 20:30:16 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:16 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:16 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:16 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:16 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:108
+[23-Aug-2016 20:30:16 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:16 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:16 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:16 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:16 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:108
+[23-Aug-2016 20:30:16 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:16 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:16 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:16 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:16 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:108
+[23-Aug-2016 20:30:16 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:16 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:16 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:16 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:16 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:108
+[23-Aug-2016 20:30:16 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:16 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:16 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:16 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:16 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:108
+[23-Aug-2016 20:30:16 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:16 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:16 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:16 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:16 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:108
+[23-Aug-2016 20:30:16 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:16 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:16 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:16 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:16 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:108
+[23-Aug-2016 20:30:16 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:16 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:16 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:16 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:16 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:108
+[23-Aug-2016 20:30:16 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:16 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:16 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:16 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:16 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:108
+[23-Aug-2016 20:30:16 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:16 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:16 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:16 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:16 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:108
+[23-Aug-2016 20:30:16 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:16 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:16 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:16 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:16 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:108
+[23-Aug-2016 20:30:16 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:16 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:16 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:16 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:16 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:108
+[23-Aug-2016 20:30:16 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:16 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:16 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:16 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:16 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:108
+[23-Aug-2016 20:30:16 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:16 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:16 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:16 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:16 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:119
+[23-Aug-2016 20:30:16 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:16 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:16 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:16 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:16 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:119
+[23-Aug-2016 20:30:16 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:16 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:16 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:16 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:16 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:119
+[23-Aug-2016 20:30:16 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:16 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:16 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:16 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:16 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:119
+[23-Aug-2016 20:30:16 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:16 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:16 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:16 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:16 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:119
+[23-Aug-2016 20:30:16 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:16 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:16 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:16 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:16 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:119
+[23-Aug-2016 20:30:16 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:16 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:16 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:16 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:16 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:119
+[23-Aug-2016 20:30:17 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:17 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:17 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:17 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:17 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:119
+[23-Aug-2016 20:30:17 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:17 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:17 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:17 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:17 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:119
+[23-Aug-2016 20:30:17 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:17 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:17 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:17 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:17 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:119
+[23-Aug-2016 20:30:17 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:17 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:17 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:17 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:17 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:119
+[23-Aug-2016 20:30:17 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:17 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:17 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:17 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:17 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:119
+[23-Aug-2016 20:30:17 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:17 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:17 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:17 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:17 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:119
+[23-Aug-2016 20:30:17 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:17 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:17 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:17 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:17 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:119
+[23-Aug-2016 20:30:17 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:17 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:17 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:17 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:17 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:119
+[23-Aug-2016 20:30:17 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:17 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:17 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:17 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:17 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:119
+[23-Aug-2016 20:30:17 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:17 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:17 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:17 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:17 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:119
+[23-Aug-2016 20:30:17 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:17 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:17 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:17 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:17 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:119
+[23-Aug-2016 20:30:17 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:17 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:17 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:17 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:17 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:119
+[23-Aug-2016 20:30:17 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:17 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:17 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:17 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:17 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:119
+[23-Aug-2016 20:30:17 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:17 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:17 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:17 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:17 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:119
+[23-Aug-2016 20:30:17 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:17 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:17 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:17 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:17 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:119
+[23-Aug-2016 20:30:17 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:17 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:17 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:17 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:17 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:127
+[23-Aug-2016 20:30:17 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:17 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:17 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:17 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:17 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:127
+[23-Aug-2016 20:30:17 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:17 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:17 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:17 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:17 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:127
+[23-Aug-2016 20:30:17 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:17 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:17 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:17 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:17 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:127
+[23-Aug-2016 20:30:17 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:17 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:17 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:17 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:17 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:127
+[23-Aug-2016 20:30:17 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:17 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:17 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:17 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:17 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:127
+[23-Aug-2016 20:30:17 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:17 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:17 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:17 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:17 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:127
+[23-Aug-2016 20:30:17 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:17 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:17 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:17 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:18 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:127
+[23-Aug-2016 20:30:18 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:18 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:18 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:18 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:18 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:127
+[23-Aug-2016 20:30:18 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:18 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:18 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:18 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:18 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:127
+[23-Aug-2016 20:30:18 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:18 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:18 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:18 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:18 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:127
+[23-Aug-2016 20:30:18 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:18 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:18 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:18 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:18 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:127
+[23-Aug-2016 20:30:18 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:18 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:18 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:18 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:18 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:127
+[23-Aug-2016 20:30:18 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:18 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:18 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:18 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:18 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:127
+[23-Aug-2016 20:30:18 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:18 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:18 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:18 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:18 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:127
+[23-Aug-2016 20:30:18 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:18 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:18 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:18 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:18 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:127
+[23-Aug-2016 20:30:18 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:18 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:18 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:18 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:18 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:127
+[23-Aug-2016 20:30:18 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:18 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:18 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:18 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:18 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:127
+[23-Aug-2016 20:30:18 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:18 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:18 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:18 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:18 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:127
+[23-Aug-2016 20:30:18 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:18 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:18 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:18 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:18 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:127
+[23-Aug-2016 20:30:18 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:18 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:18 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:18 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:18 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:127
+[23-Aug-2016 20:30:18 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:18 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:18 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:18 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:18 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:127
+[23-Aug-2016 20:30:18 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:18 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:18 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:18 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:18 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:135
+[23-Aug-2016 20:30:18 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:18 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:18 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:18 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:18 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:135
+[23-Aug-2016 20:30:18 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:18 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:18 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:18 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:18 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:135
+[23-Aug-2016 20:30:18 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:18 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:18 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:18 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:18 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:135
+[23-Aug-2016 20:30:18 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:18 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:18 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:18 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:18 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:135
+[23-Aug-2016 20:30:18 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:18 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:18 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:18 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:18 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:135
+[23-Aug-2016 20:30:18 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:18 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:18 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:18 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:18 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:135
+[23-Aug-2016 20:30:18 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:18 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:18 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:19 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:19 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:135
+[23-Aug-2016 20:30:19 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:19 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:19 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:19 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:19 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:135
+[23-Aug-2016 20:30:19 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:19 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:19 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:19 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:19 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:135
+[23-Aug-2016 20:30:19 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:19 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:19 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:19 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:19 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:135
+[23-Aug-2016 20:30:19 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:19 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:19 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:19 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:19 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:135
+[23-Aug-2016 20:30:19 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:19 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:19 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:19 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:19 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:135
+[23-Aug-2016 20:30:19 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:19 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:19 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:19 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:19 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:135
+[23-Aug-2016 20:30:19 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:19 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:19 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:19 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:19 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:135
+[23-Aug-2016 20:30:19 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:19 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:19 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:19 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:19 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:135
+[23-Aug-2016 20:30:19 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:19 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:19 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:19 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:19 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:135
+[23-Aug-2016 20:30:19 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:19 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:19 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:19 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:19 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:135
+[23-Aug-2016 20:30:19 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:19 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:19 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:19 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:19 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:135
+[23-Aug-2016 20:30:19 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:19 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:19 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:19 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:19 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:135
+[23-Aug-2016 20:30:19 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:19 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:19 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:19 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:19 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:135
+[23-Aug-2016 20:30:19 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:19 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:19 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:19 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:19 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:135
+[23-Aug-2016 20:30:19 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:19 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:19 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:19 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:19 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:144
+[23-Aug-2016 20:30:19 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:19 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:19 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:19 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:19 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:144
+[23-Aug-2016 20:30:19 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:19 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:19 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:19 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:19 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:144
+[23-Aug-2016 20:30:19 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:19 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:19 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:19 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:19 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:144
+[23-Aug-2016 20:30:19 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:19 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:19 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:19 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:19 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:144
+[23-Aug-2016 20:30:19 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:19 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:19 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:19 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:19 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:144
+[23-Aug-2016 20:30:19 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:19 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:19 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:19 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:19 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:144
+[23-Aug-2016 20:30:19 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:19 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:19 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:19 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:19 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:144
+[23-Aug-2016 20:30:19 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:19 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:19 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:19 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:19 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:144
+[23-Aug-2016 20:30:19 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:19 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:19 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:19 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:19 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:144
+[23-Aug-2016 20:30:19 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:19 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:19 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:19 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:20 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:144
+[23-Aug-2016 20:30:20 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:20 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:20 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:20 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:20 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:144
+[23-Aug-2016 20:30:20 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:20 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:20 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:20 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:20 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:144
+[23-Aug-2016 20:30:20 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:20 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:20 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:20 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:20 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:144
+[23-Aug-2016 20:30:20 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:20 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:20 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:20 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:20 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:144
+[23-Aug-2016 20:30:20 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:20 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:20 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:20 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:20 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:144
+[23-Aug-2016 20:30:20 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:20 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:20 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:20 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:20 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:144
+[23-Aug-2016 20:30:20 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:20 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:20 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:20 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:20 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:144
+[23-Aug-2016 20:30:20 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:20 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:20 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:20 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:20 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:144
+[23-Aug-2016 20:30:20 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:20 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:20 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:20 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:20 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:144
+[23-Aug-2016 20:30:20 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:20 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:20 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:20 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:20 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:144
+[23-Aug-2016 20:30:20 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:20 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:20 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:20 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:20 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:144
+[23-Aug-2016 20:30:20 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:20 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:20 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:20 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:20 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:150
+[23-Aug-2016 20:30:20 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:20 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:20 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:20 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:20 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:150
+[23-Aug-2016 20:30:20 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:20 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:20 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:20 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:20 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:150
+[23-Aug-2016 20:30:20 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:20 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:20 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:20 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:20 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:150
+[23-Aug-2016 20:30:20 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:20 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:20 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:20 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:20 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:150
+[23-Aug-2016 20:30:20 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:20 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:20 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:20 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:20 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:150
+[23-Aug-2016 20:30:20 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:20 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:20 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:20 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:20 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:150
+[23-Aug-2016 20:30:20 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:20 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:20 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:20 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:20 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:150
+[23-Aug-2016 20:30:20 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:20 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:20 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:21 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:21 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:150
+[23-Aug-2016 20:30:21 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:21 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:21 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:21 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:21 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:150
+[23-Aug-2016 20:30:21 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:21 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:21 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:21 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:21 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:150
+[23-Aug-2016 20:30:21 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:21 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:21 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:21 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:21 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:150
+[23-Aug-2016 20:30:21 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:21 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:21 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:21 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:21 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:150
+[23-Aug-2016 20:30:21 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:21 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:21 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:21 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:21 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:150
+[23-Aug-2016 20:30:21 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:21 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:21 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:21 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:21 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:150
+[23-Aug-2016 20:30:21 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:21 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:21 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:21 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:21 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:150
+[23-Aug-2016 20:30:21 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:21 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:21 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:21 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:21 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:150
+[23-Aug-2016 20:30:21 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:21 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:21 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:21 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:21 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:150
+[23-Aug-2016 20:30:21 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:21 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:21 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:21 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:21 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:150
+[23-Aug-2016 20:30:21 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:21 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:21 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:21 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:21 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:150
+[23-Aug-2016 20:30:21 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:21 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:21 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:21 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:21 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:150
+[23-Aug-2016 20:30:21 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:30:21 UTC] PHP Stack trace:
+[23-Aug-2016 20:30:21 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:30:21 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:30:21 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:150
+[23-Aug-2016 20:31:44 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:44 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:44 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:44 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:44 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:98
+[23-Aug-2016 20:31:44 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:44 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:44 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:44 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:44 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:98
+[23-Aug-2016 20:31:44 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:44 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:44 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:44 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:44 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:98
+[23-Aug-2016 20:31:44 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:44 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:44 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:44 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:44 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:98
+[23-Aug-2016 20:31:44 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:44 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:44 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:44 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:45 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:98
+[23-Aug-2016 20:31:45 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:45 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:45 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:45 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:45 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:98
+[23-Aug-2016 20:31:45 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:45 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:45 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:45 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:45 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:98
+[23-Aug-2016 20:31:45 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:45 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:45 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:45 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:45 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:98
+[23-Aug-2016 20:31:45 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:45 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:45 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:45 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:45 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:98
+[23-Aug-2016 20:31:45 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:45 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:45 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:45 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:45 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:98
+[23-Aug-2016 20:31:45 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:45 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:45 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:45 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:45 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:98
+[23-Aug-2016 20:31:45 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:45 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:45 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:45 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:45 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:98
+[23-Aug-2016 20:31:45 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:45 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:45 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:45 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:45 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:98
+[23-Aug-2016 20:31:45 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:45 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:45 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:45 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:45 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:98
+[23-Aug-2016 20:31:45 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:45 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:45 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:45 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:45 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:98
+[23-Aug-2016 20:31:45 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:45 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:45 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:45 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:45 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:98
+[23-Aug-2016 20:31:45 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:45 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:45 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:45 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:45 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:98
+[23-Aug-2016 20:31:45 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:45 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:45 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:45 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:45 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:98
+[23-Aug-2016 20:31:45 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:45 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:45 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:45 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:45 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:98
+[23-Aug-2016 20:31:45 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:45 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:45 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:45 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:45 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:98
+[23-Aug-2016 20:31:45 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:45 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:45 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:45 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:45 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:98
+[23-Aug-2016 20:31:45 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:45 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:45 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:45 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:45 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:98
+[23-Aug-2016 20:31:45 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:45 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:45 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:45 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:45 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:108
+[23-Aug-2016 20:31:45 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:45 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:46 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:46 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:46 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:108
+[23-Aug-2016 20:31:46 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:46 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:46 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:46 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:46 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:108
+[23-Aug-2016 20:31:46 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:46 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:46 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:46 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:46 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:108
+[23-Aug-2016 20:31:46 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:46 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:46 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:46 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:46 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:108
+[23-Aug-2016 20:31:46 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:46 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:46 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:46 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:46 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:108
+[23-Aug-2016 20:31:46 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:46 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:46 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:46 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:46 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:108
+[23-Aug-2016 20:31:46 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:46 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:46 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:46 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:46 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:108
+[23-Aug-2016 20:31:46 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:46 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:46 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:46 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:46 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:108
+[23-Aug-2016 20:31:46 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:46 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:46 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:46 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:46 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:108
+[23-Aug-2016 20:31:46 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:46 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:46 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:46 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:46 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:108
+[23-Aug-2016 20:31:46 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:46 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:46 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:46 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:46 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:108
+[23-Aug-2016 20:31:46 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:46 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:46 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:46 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:46 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:108
+[23-Aug-2016 20:31:46 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:46 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:46 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:46 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:46 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:108
+[23-Aug-2016 20:31:46 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:46 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:46 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:46 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:46 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:108
+[23-Aug-2016 20:31:46 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:46 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:46 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:46 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:46 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:108
+[23-Aug-2016 20:31:46 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:46 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:46 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:46 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:46 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:108
+[23-Aug-2016 20:31:46 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:46 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:46 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:46 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:46 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:108
+[23-Aug-2016 20:31:46 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:46 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:46 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:46 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:46 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:108
+[23-Aug-2016 20:31:46 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:46 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:46 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:46 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:46 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:108
+[23-Aug-2016 20:31:46 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:46 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:47 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:47 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:47 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:108
+[23-Aug-2016 20:31:47 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:47 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:47 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:47 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:47 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:108
+[23-Aug-2016 20:31:47 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:47 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:47 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:47 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:47 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:119
+[23-Aug-2016 20:31:47 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:47 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:47 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:47 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:47 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:119
+[23-Aug-2016 20:31:47 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:47 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:47 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:47 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:47 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:119
+[23-Aug-2016 20:31:47 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:47 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:47 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:47 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:47 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:119
+[23-Aug-2016 20:31:47 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:47 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:47 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:47 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:47 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:119
+[23-Aug-2016 20:31:47 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:47 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:47 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:47 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:47 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:119
+[23-Aug-2016 20:31:47 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:47 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:47 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:47 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:47 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:119
+[23-Aug-2016 20:31:47 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:47 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:47 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:47 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:47 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:119
+[23-Aug-2016 20:31:47 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:47 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:47 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:47 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:47 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:119
+[23-Aug-2016 20:31:47 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:47 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:47 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:47 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:47 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:119
+[23-Aug-2016 20:31:47 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:47 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:47 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:47 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:47 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:119
+[23-Aug-2016 20:31:47 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:47 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:47 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:47 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:47 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:119
+[23-Aug-2016 20:31:47 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:47 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:47 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:47 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:47 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:119
+[23-Aug-2016 20:31:47 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:47 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:47 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:47 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:47 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:119
+[23-Aug-2016 20:31:47 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:47 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:47 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:47 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:47 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:119
+[23-Aug-2016 20:31:47 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:47 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:47 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:47 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:47 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:119
+[23-Aug-2016 20:31:47 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:47 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:47 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:47 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:47 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:119
+[23-Aug-2016 20:31:47 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:47 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:47 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:47 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:47 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:119
+[23-Aug-2016 20:31:47 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:47 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:47 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:47 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:48 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:119
+[23-Aug-2016 20:31:48 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:48 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:48 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:48 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:48 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:119
+[23-Aug-2016 20:31:48 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:48 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:48 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:48 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:48 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:119
+[23-Aug-2016 20:31:48 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:48 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:48 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:48 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:48 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:119
+[23-Aug-2016 20:31:48 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:48 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:48 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:48 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:48 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:127
+[23-Aug-2016 20:31:48 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:48 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:48 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:48 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:48 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:127
+[23-Aug-2016 20:31:48 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:48 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:48 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:48 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:48 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:127
+[23-Aug-2016 20:31:48 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:48 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:48 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:48 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:48 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:127
+[23-Aug-2016 20:31:48 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:48 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:48 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:48 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:48 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:127
+[23-Aug-2016 20:31:48 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:48 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:48 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:48 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:48 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:127
+[23-Aug-2016 20:31:48 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:48 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:48 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:48 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:48 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:127
+[23-Aug-2016 20:31:48 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:48 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:48 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:48 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:48 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:127
+[23-Aug-2016 20:31:48 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:48 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:48 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:48 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:48 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:127
+[23-Aug-2016 20:31:48 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:48 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:48 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:48 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:48 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:127
+[23-Aug-2016 20:31:48 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:48 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:48 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:48 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:48 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:127
+[23-Aug-2016 20:31:48 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:48 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:48 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:48 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:48 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:127
+[23-Aug-2016 20:31:48 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:48 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:48 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:48 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:48 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:127
+[23-Aug-2016 20:31:48 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:48 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:48 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:48 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:48 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:127
+[23-Aug-2016 20:31:48 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:48 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:48 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:48 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:49 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:127
+[23-Aug-2016 20:31:49 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:49 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:49 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:49 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:49 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:127
+[23-Aug-2016 20:31:49 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:49 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:49 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:49 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:49 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:127
+[23-Aug-2016 20:31:49 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:49 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:49 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:49 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:49 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:127
+[23-Aug-2016 20:31:49 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:49 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:49 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:49 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:49 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:127
+[23-Aug-2016 20:31:49 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:49 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:49 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:49 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:49 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:127
+[23-Aug-2016 20:31:49 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:49 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:49 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:49 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:49 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:127
+[23-Aug-2016 20:31:49 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:49 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:49 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:49 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:49 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:127
+[23-Aug-2016 20:31:49 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:49 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:49 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:49 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:49 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:135
+[23-Aug-2016 20:31:49 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:49 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:49 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:49 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:49 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:135
+[23-Aug-2016 20:31:49 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:49 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:49 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:49 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:49 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:135
+[23-Aug-2016 20:31:49 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:49 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:49 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:49 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:49 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:135
+[23-Aug-2016 20:31:49 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:49 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:49 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:49 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:49 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:135
+[23-Aug-2016 20:31:49 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:49 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:49 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:49 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:49 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:135
+[23-Aug-2016 20:31:49 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:49 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:49 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:49 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:49 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:135
+[23-Aug-2016 20:31:49 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:49 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:49 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:49 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:50 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:135
+[23-Aug-2016 20:31:50 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:50 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:50 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:50 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:50 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:135
+[23-Aug-2016 20:31:50 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:50 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:50 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:50 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:50 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:135
+[23-Aug-2016 20:31:50 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:50 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:50 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:50 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:50 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:135
+[23-Aug-2016 20:31:50 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:50 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:50 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:50 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:50 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:135
+[23-Aug-2016 20:31:50 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:50 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:50 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:50 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:50 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:135
+[23-Aug-2016 20:31:50 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:50 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:50 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:50 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:50 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:135
+[23-Aug-2016 20:31:50 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:50 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:50 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:50 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:50 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:135
+[23-Aug-2016 20:31:50 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:50 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:50 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:50 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:50 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:135
+[23-Aug-2016 20:31:50 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:50 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:50 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:50 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:50 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:135
+[23-Aug-2016 20:31:50 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:50 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:50 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:50 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:50 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:135
+[23-Aug-2016 20:31:50 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:50 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:50 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:50 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:50 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:135
+[23-Aug-2016 20:31:50 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:50 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:50 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:50 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:50 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:135
+[23-Aug-2016 20:31:50 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:50 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:50 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:50 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:50 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:135
+[23-Aug-2016 20:31:50 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:50 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:50 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:50 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:50 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:135
+[23-Aug-2016 20:31:50 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:50 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:50 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:50 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:50 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:144
+[23-Aug-2016 20:31:50 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:50 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:50 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:50 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:50 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:144
+[23-Aug-2016 20:31:50 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:50 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:50 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:50 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:50 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:144
+[23-Aug-2016 20:31:50 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:50 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:50 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:50 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:50 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:144
+[23-Aug-2016 20:31:50 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:50 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:50 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:50 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:50 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:144
+[23-Aug-2016 20:31:50 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:50 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:50 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:50 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:51 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:144
+[23-Aug-2016 20:31:51 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:51 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:51 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:51 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:51 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:144
+[23-Aug-2016 20:31:51 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:51 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:51 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:51 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:51 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:144
+[23-Aug-2016 20:31:51 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:51 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:51 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:51 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:51 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:144
+[23-Aug-2016 20:31:51 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:51 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:51 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:51 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:51 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:144
+[23-Aug-2016 20:31:51 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:51 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:51 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:51 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:51 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:144
+[23-Aug-2016 20:31:51 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:51 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:51 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:51 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:51 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:144
+[23-Aug-2016 20:31:51 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:51 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:51 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:51 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:51 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:144
+[23-Aug-2016 20:31:51 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:51 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:51 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:51 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:51 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:144
+[23-Aug-2016 20:31:51 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:51 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:51 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:51 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:51 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:144
+[23-Aug-2016 20:31:51 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:51 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:51 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:51 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:51 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:144
+[23-Aug-2016 20:31:51 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:51 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:51 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:51 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:51 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:144
+[23-Aug-2016 20:31:51 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:51 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:51 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:51 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:51 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:144
+[23-Aug-2016 20:31:51 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:51 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:51 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:51 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:51 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:144
+[23-Aug-2016 20:31:51 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:51 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:51 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:51 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:51 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:144
+[23-Aug-2016 20:31:51 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:51 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:51 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:51 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:51 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:144
+[23-Aug-2016 20:31:51 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:51 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:51 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:51 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:51 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:144
+[23-Aug-2016 20:31:51 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:51 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:51 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:51 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:51 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:150
+[23-Aug-2016 20:31:51 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:51 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:51 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:51 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:51 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:150
+[23-Aug-2016 20:31:51 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:51 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:51 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:51 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:51 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:150
+[23-Aug-2016 20:31:51 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:51 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:51 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:51 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:51 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:150
+[23-Aug-2016 20:31:51 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:51 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:51 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:51 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:51 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:150
+[23-Aug-2016 20:31:51 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:51 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:51 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:51 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:51 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:150
+[23-Aug-2016 20:31:51 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:51 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:51 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:51 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:51 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:150
+[23-Aug-2016 20:31:51 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:51 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:51 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:51 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:51 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:150
+[23-Aug-2016 20:31:51 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:52 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:52 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:52 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:52 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:150
+[23-Aug-2016 20:31:52 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:52 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:52 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:52 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:52 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:150
+[23-Aug-2016 20:31:52 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:52 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:52 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:52 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:52 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:150
+[23-Aug-2016 20:31:52 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:52 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:52 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:52 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:52 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:150
+[23-Aug-2016 20:31:52 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:52 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:52 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:52 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:52 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:150
+[23-Aug-2016 20:31:52 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:52 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:52 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:52 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:52 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:150
+[23-Aug-2016 20:31:52 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:52 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:52 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:52 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:52 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:150
+[23-Aug-2016 20:31:52 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:52 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:52 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:52 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:52 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:150
+[23-Aug-2016 20:31:52 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:52 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:52 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:52 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:52 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:150
+[23-Aug-2016 20:31:52 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:52 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:52 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:52 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:52 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:150
+[23-Aug-2016 20:31:52 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:52 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:52 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:52 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:52 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:150
+[23-Aug-2016 20:31:52 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:52 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:52 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:52 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:52 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:150
+[23-Aug-2016 20:31:52 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:52 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:52 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:52 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:52 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:150
+[23-Aug-2016 20:31:52 UTC] PHP Notice:  Undefined variable: fonction in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 57
+[23-Aug-2016 20:31:52 UTC] PHP Stack trace:
+[23-Aug-2016 20:31:52 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[23-Aug-2016 20:31:52 UTC] PHP   2. include() Z:\SiteTechnologie\index.php:211
+[23-Aug-2016 20:31:52 UTC] PHP   3. afficheActeurs() Z:\SiteTechnologie\acteurs_de_la_technologie.php:150
+[23-Aug-2016 21:37:30 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND) in Z:\SiteTechnologie\acteurs_de_la_technologie.php on line 69
+[23-Aug-2016 21:37:30 UTC] PHP Stack trace:
+[23-Aug-2016 21:37:30 UTC] PHP   1. {main}() Z:\SiteTechnologie\index.php:0
+[02-Sep-2016 12:34:26] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Unable to access pageIntrouvable.php in /web/www/Enseignement/technologie/index.php on line 216
+[02-Sep-2016 12:34:26] PHP Warning:  include(pageIntrouvable.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /web/www/Enseignement/technologie/index.php on line 216
+[02-Sep-2016 12:34:26] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'pageIntrouvable.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') in /web/www/Enseignement/technologie/index.php on line 216
+[02-Sep-2016 12:50:10] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Unable to access pageIntrouvable.php in /web/www/Enseignement/technologie/index.php on line 216
+[02-Sep-2016 12:50:10] PHP Warning:  include(pageIntrouvable.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /web/www/Enseignement/technologie/index.php on line 216
+[02-Sep-2016 12:50:10] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'pageIntrouvable.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') in /web/www/Enseignement/technologie/index.php on line 216
+[02-Sep-2016 12:50:18] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Unable to access pageIntrouvable.php in /web/www/Enseignement/technologie/index.php on line 216
+[02-Sep-2016 12:50:18] PHP Warning:  include(pageIntrouvable.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /web/www/Enseignement/technologie/index.php on line 216
+[02-Sep-2016 12:50:18] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'pageIntrouvable.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') in /web/www/Enseignement/technologie/index.php on line 216
+[02-Sep-2016 12:52:48] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /web/www/Enseignement/technologie/connection.php on line 19
+[02-Sep-2016 12:55:48] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /web/www/Enseignement/technologie/connection.php on line 19
+[02-Sep-2016 12:56:25] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /web/www/Enseignement/technologie/connection.php on line 19
+[02-Sep-2016 13:09:48] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Unable to access pageIntrouvable.php in /web/www/Enseignement/technologie/index.php on line 216
+[02-Sep-2016 13:09:48] PHP Warning:  include(pageIntrouvable.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /web/www/Enseignement/technologie/index.php on line 216
+[02-Sep-2016 13:09:48] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'pageIntrouvable.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') in /web/www/Enseignement/technologie/index.php on line 216
+[02-Sep-2016 13:25:15] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /web/www/Enseignement/technologie/connection.php on line 19
+[02-Sep-2016 13:25:44] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /web/www/Enseignement/technologie/connection.php on line 19
+[02-Sep-2016 13:25:50] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /web/www/Enseignement/technologie/connection.php on line 19
+[02-Sep-2016 13:25:59] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /web/www/Enseignement/technologie/connection.php on line 19
+[02-Sep-2016 13:26:01] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Unable to access pageIntrouvable.php in /web/www/Enseignement/technologie/index.php on line 216
+[02-Sep-2016 13:26:01] PHP Warning:  include(pageIntrouvable.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /web/www/Enseignement/technologie/index.php on line 216
+[02-Sep-2016 13:26:01] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'pageIntrouvable.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') in /web/www/Enseignement/technologie/index.php on line 216
+[02-Sep-2016 13:26:39] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /web/www/Enseignement/technologie/connection.php on line 19
+[02-Sep-2016 13:26:43] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /web/www/Enseignement/technologie/connection.php on line 19
+[02-Sep-2016 13:28:51] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Unable to access pageIntrouvable.php in /web/www/Enseignement/technologie/index.php on line 216
+[02-Sep-2016 13:28:51] PHP Warning:  include(pageIntrouvable.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /web/www/Enseignement/technologie/index.php on line 216
+[02-Sep-2016 13:28:51] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'pageIntrouvable.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') in /web/www/Enseignement/technologie/index.php on line 216
+[02-Sep-2016 13:30:50] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /web/www/Enseignement/technologie/connection.php on line 19
+[02-Sep-2016 13:34:24] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /web/www/Enseignement/technologie/connection.php on line 19
+[02-Sep-2016 13:36:08] PHP Notice:  Undefined variable: user in /web/www/Enseignement/technologie/connection.php on line 53
+[02-Sep-2016 13:36:15] PHP Notice:  Undefined variable: user in /web/www/Enseignement/technologie/connection.php on line 53
+[02-Sep-2016 13:37:46] PHP Notice:  Undefined variable: user in /web/www/Enseignement/technologie/connection.php on line 53
+[02-Sep-2016 13:37:46] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Unable to access pageIntrouvable.php in /web/www/Enseignement/technologie/index.php on line 216
+[02-Sep-2016 13:37:46] PHP Warning:  include(pageIntrouvable.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /web/www/Enseignement/technologie/index.php on line 216
+[02-Sep-2016 13:37:46] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'pageIntrouvable.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') in /web/www/Enseignement/technologie/index.php on line 216
+[02-Sep-2016 13:37:50] PHP Notice:  Undefined variable: user in /web/www/Enseignement/technologie/connection.php on line 53
+[02-Sep-2016 13:37:50] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Unable to access pageIntrouvable.php in /web/www/Enseignement/technologie/index.php on line 216
+[02-Sep-2016 13:37:50] PHP Warning:  include(pageIntrouvable.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /web/www/Enseignement/technologie/index.php on line 216
+[02-Sep-2016 13:37:50] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'pageIntrouvable.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') in /web/www/Enseignement/technologie/index.php on line 216
+[02-Sep-2016 13:38:01] PHP Notice:  Undefined variable: user in /web/www/Enseignement/technologie/connection.php on line 53
+[02-Sep-2016 13:38:40] PHP Notice:  Undefined variable: user in /web/www/Enseignement/technologie/connection.php on line 53
+[02-Sep-2016 13:38:45] PHP Notice:  Undefined variable: user in /web/www/Enseignement/technologie/connection.php on line 53
+[02-Sep-2016 13:38:52] PHP Notice:  Undefined variable: user in /web/www/Enseignement/technologie/connection.php on line 53
+[02-Sep-2016 13:39:03] PHP Notice:  Undefined variable: user in /web/www/Enseignement/technologie/connection.php on line 53
+[02-Sep-2016 13:39:38] PHP Notice:  Undefined variable: user in /web/www/Enseignement/technologie/connection.php on line 53
+[02-Sep-2016 13:39:49] PHP Notice:  Undefined variable: user in /web/www/Enseignement/technologie/connection.php on line 53
+[02-Sep-2016 13:41:23] PHP Notice:  Undefined variable: user in /web/www/Enseignement/technologie/connection.php on line 53
+[02-Sep-2016 13:41:31] PHP Notice:  Undefined variable: user in /web/www/Enseignement/technologie/connection.php on line 53
+[02-Sep-2016 13:41:58] PHP Notice:  Undefined variable: user in /web/www/Enseignement/technologie/connection.php on line 53
+[02-Sep-2016 13:42:08] PHP Notice:  Undefined variable: user in /web/www/Enseignement/technologie/connection.php on line 53
+[02-Sep-2016 13:44:15] PHP Notice:  Undefined variable: user in /web/www/Enseignement/technologie/connection.php on line 53
+[02-Sep-2016 13:44:17] PHP Notice:  Undefined variable: user in /web/www/Enseignement/technologie/connection.php on line 53
+[02-Sep-2016 13:45:22] PHP Notice:  Undefined variable: user in /web/www/Enseignement/technologie/connection.php on line 53
+[02-Sep-2016 13:45:28] PHP Notice:  Undefined variable: user in /web/www/Enseignement/technologie/connection.php on line 53
+[02-Sep-2016 13:45:51] PHP Notice:  Undefined variable: user in /web/www/Enseignement/technologie/connection.php on line 53
+[02-Sep-2016 14:02:00] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Unable to access pageIntrouvable.php in /web/www/Enseignement/technologie/index.php on line 219
+[02-Sep-2016 14:02:00] PHP Warning:  include(pageIntrouvable.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /web/www/Enseignement/technologie/index.php on line 219
+[02-Sep-2016 14:02:00] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'pageIntrouvable.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') in /web/www/Enseignement/technologie/index.php on line 219
+[02-Sep-2016 14:35:40] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Unable to access pageIntrouvable.php in /web/www/Enseignement/technologie/index.php on line 219
+[02-Sep-2016 14:35:40] PHP Warning:  include(pageIntrouvable.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /web/www/Enseignement/technologie/index.php on line 219
+[02-Sep-2016 14:35:40] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'pageIntrouvable.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') in /web/www/Enseignement/technologie/index.php on line 219
+[02-Sep-2016 14:35:44] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Unable to access pageIntrouvable.php in /web/www/Enseignement/technologie/index.php on line 219
+[02-Sep-2016 14:35:44] PHP Warning:  include(pageIntrouvable.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /web/www/Enseignement/technologie/index.php on line 219
+[02-Sep-2016 14:35:44] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'pageIntrouvable.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') in /web/www/Enseignement/technologie/index.php on line 219
+[02-Sep-2016 14:42:29] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Unable to access pageIntrouvable.php in /web/www/Enseignement/technologie/index.php on line 219
+[02-Sep-2016 14:42:29] PHP Warning:  include(pageIntrouvable.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /web/www/Enseignement/technologie/index.php on line 219
+[02-Sep-2016 14:42:29] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'pageIntrouvable.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') in /web/www/Enseignement/technologie/index.php on line 219
+[02-Sep-2016 14:42:58] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Unable to access pageIntrouvable.php in /web/www/Enseignement/technologie/index.php on line 219
+[02-Sep-2016 14:42:58] PHP Warning:  include(pageIntrouvable.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /web/www/Enseignement/technologie/index.php on line 219
+[02-Sep-2016 14:42:58] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'pageIntrouvable.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') in /web/www/Enseignement/technologie/index.php on line 219

@@ -1,0 +1,29 @@
+#navbar_h{
+	margin: 0;
+	border-radius: 0;
+	border: none;
+	background-color: #333;
+
+}
+
+.submenu{
+	list-style-type: none;
+	display: none;
+}
+
+#navbar_h .liste_problematiques{
+position: absolute; 
+margin-top: 1px; 
+margin-bottom: 1px; 
+top: 100%; 
+border-top-width: 0px; 
+border-bottom-width: 1px; 
+border-radius: 0px 0px 4px 4px; 
+padding: 15px; 
+margin-left : 350px;
+}
+
+#navbar_h .liste_problematiques li{
+	
+}
+
