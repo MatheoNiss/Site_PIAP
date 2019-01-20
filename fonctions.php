@@ -116,8 +116,8 @@ function get_all_cadres($link_db, $categorie){
 	return $cadres;
 }
 
-function get_all_structures($link_db, $departement){
-
+function get_structures_departement($link_db, $departement){
+	
 	$sql = "SELECT * FROM piap_structures WHERE departement = '".$departement."' order by id DESC";
 	$i=0;
 	$structures=array();

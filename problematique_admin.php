@@ -5,19 +5,21 @@ $problematiques = get_all_problematiques($link_db);
 close_db($link_db);
 
 if(isset($_POST['btn_sub'])){
-	$cb_checked = array()
+	$cb_checked = array();
+
 	for($i=0; $i< count($problematiques); $i++){
 		if($_POST[$i]) $cb_checked[$i] = 1;
 		else $cb_checked[$i] = 0;
 	}
 }
+
 function afficher_problematiques(){
 	global $problematiques;
 	$code ="";
 
 	$code .= '<form method="post">';
 	for($i = 0; $i < count($problematiques); $i++){
-		$code .= '<input type="checkbox" id="problematique_'.$i.'" onclick="" name="'$i'">';
+		$code .= '<input type="checkbox" id="problematique_'.$i.'" onclick="" name="'.$i.'">';
 		$code .= '<label for="problematique_'.$i.'">'.$problematiques[$i]['problematique'].'</label>';
 		$code .= '<br>';
 	} 

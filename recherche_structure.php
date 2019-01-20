@@ -1,20 +1,16 @@
-
 <?php
-global $mavarr;
-
-$mavarr = "etape1";
-echo $mavarr;
-
-
 include "dialog_box.php";
 
-function whrite_Structure(){
-    global $mavarr;
+if(isset($_SESSION['departement']) AND !empty($_SESSION['departement'])){
+    $departement = json_encode($_SESSION['departement']);
 
-    $structures = get_all_structures($mavarr);
+    $link_db = connect_to_db();
+    $structures = get_structures_departement($link_db,$departement);
+    close_db($link_db);
+
     print_r($structures);
 
-    for($i=0; $i = count($structures) - 1; $i++){
+    for($i=0; $i = count($structures); $i++){
         echo($structure[$i]['nom']);
     }
 }
@@ -62,9 +58,6 @@ function whrite_Structure(){
 
 
 
-<div id="affiche_retour" style="margin-top:2em;"></div>
 
 
-<?php
-    echo "<br><br>Ma variable au retour est : ".$mavarr;
-?>
+<div id="affiche_retour" style="margin-top:2em; margin-bottom: 40px;" ></div>

@@ -69,7 +69,7 @@ else $page = '';
    <a class="navbar-link navbar-left" href="#"><i class="fa fa-gavel"></i> <span>Mentions légales</span></a>
 
    <div class="nav navbar-nav navbar-right copyright">
-    <i class="fa fa-copyright"></i> Niss Mathéo - 2018
+    <i class="fa fa-copyright"></i> Niss Mathéo - 2018/2019
    </div>
   </div>
  </div>
