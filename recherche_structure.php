@@ -1,5 +1,25 @@
 <?php
 include "dialog_box.php";
+include "cadres.php";
+
+//----------------------------------CADRE
+$categorie = "page_recherche";
+$link_db=connect_to_db();
+$cadres = get_all_cadres($link_db, $categorie);
+close_db($link_db); 
+
+function affiche_cadre($zone, $code = ""){
+    global $cadres, $adminMode; 
+
+    for($i=0; $i<sizeof($cadres); $i++){
+        if ($cadres[$i]['zone'] == $zone){
+            $c = new Cadre($cadres[$i], $adminMode, $code);
+            $c->DessineCadre();
+        }
+        
+    }
+}
+//---------------------------------------
 
 if(isset($_SESSION['departement']) AND !empty($_SESSION['departement'])){
     $departement = json_encode($_SESSION['departement']);
@@ -8,18 +28,32 @@ if(isset($_SESSION['departement']) AND !empty($_SESSION['departement'])){
     $structures = get_structures_departement($link_db,$departement);
     close_db($link_db);
 
-    print_r($structures);
+    $i=0;
+    while( $i != count($structures) ){
 
-    for($i=0; $i = count($structures); $i++){
-        echo($structure[$i]['nom']);
+        echo ($structures[$i]['nom']) . " ";
+        $i++;
     }
 }
 
+
+
+
 ?>
 
-<div id="francemap" style="width: 500px; height: 600px;"></div>
+<link rel=stylesheet href="./css/recherche_structure.css">
 
+<div id="r_structure">
+    <div class="carte" id="francemap"></div>
 
+    <div class="cale"></div>
+
+    <div class="liste_structure">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+            <?php affiche_cadre(1); ?>
+        </div>
+    </div>
+</div>
 
 <script type="text/javascript">
     $(document).ready(function() {
@@ -53,11 +87,7 @@ if(isset($_SESSION['departement']) AND !empty($_SESSION['departement'])){
 
         });
     });
+
+
 </script>
-
-
-
-
-
-
-<div id="affiche_retour" style="margin-top:2em; margin-bottom: 40px;" ></div>
+<!--<div id="affiche_retour" style="margin-top:2em; margin-bottom: 40px;" ></div>-->

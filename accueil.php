@@ -61,12 +61,12 @@ function afficheZone($zone){
 	}
 }
 
-function affiche_cadre($zone){
-	global $cadres, $adminMode;
+function affiche_cadre($zone, $code = ""){
+	global $cadres, $adminMode; 
 
 	for($i=0; $i<sizeof($cadres); $i++){
 		if ($cadres[$i]['zone'] == $zone){
-			$c = new Cadre($cadres[$i], $adminMode);
+			$c = new Cadre($cadres[$i], $adminMode, $code);
 			$c->DessineCadre();
 		}
 		

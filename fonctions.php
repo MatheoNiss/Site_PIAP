@@ -112,13 +112,13 @@ function get_all_cadres($link_db, $categorie){
 			//html_entity_decode
 		} 
 	}
-	//print_r($articles);
+	//print_r($cadres);
 	return $cadres;
 }
 
 function get_structures_departement($link_db, $departement){
 	
-	$sql = "SELECT * FROM piap_structures WHERE departement = '".$departement."' order by id DESC";
+	$sql = "SELECT * FROM piap_structures WHERE departement = ".$departement." order by id DESC";
 	$i=0;
 	$structures=array();
 	if($req = mysqli_query($link_db, $sql) or die("Erreur d'accès à la table 'piap_structures'<br>".$sql))
@@ -135,7 +135,7 @@ function get_structures_departement($link_db, $departement){
 			//html_entity_decode
 		} 
 	}
-	print_r($structures);
+	//print_r($structures);
 	return $structures;
 }
 

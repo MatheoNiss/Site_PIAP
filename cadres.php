@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="./css/cadres.css" />
+ <link rel="stylesheet" type="text/css" href="./css/cadres.css" />
 
 
 <script> 
@@ -73,10 +73,14 @@ class Cadre
 { 
     // déclaration des propriétés
     private $adminMode; 
+    private $code;
     private $id, $zone, $visible, $largeur, $icone, $titre, $contenu, $footer;
     private $show_icone, $show_titre, $show_header, $show_footer, $show_boutton, $show_image, $show_border;
 	 
-	 public function Cadre($cadre, $adminMode=0){
+	 public function Cadre($cadre, $adminMode=0, $code){
+	 	if(!empty($code)){
+	 		$this->code = $code;
+	 	}
 
 	 	$this->adminMode = $adminMode;
 
@@ -209,9 +213,9 @@ class Cadre
 		if ($this->adminMode) $code .= 	$this->DrawAdminBar();
 	 	$code .= 	$this->displayHeader();
 	 	$code .= '	<div class="contenu">'.$this->contenu.'</div>';
+	 	$code .= '  <div">'.$this->code.'</div>';
 	 	if($this->show_footer) $code .= '<div class="footer">'.$this->footer.'</div>';
 		$code .= '</div>';
-
 		echo $code;
 		//$code .= '   <i class="fa fa-warning" style="font-size: 30px;"></i>';
 
