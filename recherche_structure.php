@@ -3,7 +3,9 @@ include "dialog_box.php";
 include "cadres.php";
 
 //----------------------------------CADRE
+
 $categorie = "page_recherche";
+
 $link_db=connect_to_db();
 $cadres = get_all_cadres($link_db, $categorie);
 close_db($link_db); 
@@ -19,25 +21,31 @@ function affiche_cadre($zone, $code = ""){
         
     }
 }
-//---------------------------------------
 
-if(isset($_SESSION['departement']) AND !empty($_SESSION['departement'])){
-    $departement = json_encode($_SESSION['departement']);
+//----------------------------------------récupération + affichage de la liste
+$code_liste = "";
+$departement = -1;
+
+if(isset($_GET['departement']) AND !empty($_GET['departement'])){
+
+    $departement = $_GET['departement'];
+    //echo "le departement est :".$departement;
 
     $link_db = connect_to_db();
     $structures = get_structures_departement($link_db,$departement);
     close_db($link_db);
 
     $i=0;
-    while( $i != count($structures) ){
+    $code_liste = '';
+    $code_liste .= '<ul>';
 
-        echo ($structures[$i]['nom']) . " ";
+    while( $i != count($structures) ){
+        $code_liste .= '<li><a>'.$structures[$i]['nom'].'</a></li>';
         $i++;
     }
+
+    $code_liste .= '</ul>';
 }
-
-
-
 
 ?>
 
@@ -46,14 +54,14 @@ if(isset($_SESSION['departement']) AND !empty($_SESSION['departement'])){
 <div id="r_structure">
     <div class="carte" id="francemap"></div>
 
-    <div class="cale"></div>
-
-    <div class="liste_structure">
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-            <?php affiche_cadre(1); ?>
-        </div>
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+        <?php if(!empty($code_liste)) affiche_cadre(1, $code_liste);?>
     </div>
+
+    <br><br><br><br>
 </div>
+
+
 
 <script type="text/javascript">
     $(document).ready(function() {
@@ -67,27 +75,14 @@ if(isset($_SESSION['departement']) AND !empty($_SESSION['departement'])){
             selectedColor: "#EC0000",
             enableZoom: true,
             showTooltip: true,
-
             onRegionClick: function(element, code, region)
             {  
-                var todo = "titi";
-                var url = "./admin/carte_SqlTableManageFunctions.php";
-                //var scroll=getScrollPos();
+                var scroll=getScrollPos();
+                var refreshURL = getRefreshURL('./index.php', '?page=recherche_structure', scroll);
 
-                //var refreshURL = getRefreshURL('./index.php', '?page=accueil', scroll);
-                //alert(refreshURL);
-
-                var donnees = { 'todo':todo, 'code':code };
-                $.post(url , donnees)
-                    //.done(function(data) {alert(5);/*window.location.replace(refreshURL);*/})
-                    .done(function(data) {$("#affiche_retour").html(data);})
-                    //.done (function(data) {toggleOverlay("DialogBox",0,0); $("#texteBox").html(data);})
-                    .fail (function(data) {toggleOverlay("DialogBox",0,0); $("#texteBox").html(data);});   
+                window.location.replace(refreshURL+"&departement="+code);
             }
 
         });
     });
-
-
 </script>
-<!--<div id="affiche_retour" style="margin-top:2em; margin-bottom: 40px;" ></div>-->

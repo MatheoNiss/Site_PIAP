@@ -213,6 +213,7 @@ class Cadre
 		if ($this->adminMode) $code .= 	$this->DrawAdminBar();
 	 	$code .= 	$this->displayHeader();
 	 	$code .= '	<div class="contenu">'.$this->contenu.'</div>';
+	 	echo $this->code;
 	 	$code .= '  <div">'.$this->code.'</div>';
 	 	if($this->show_footer) $code .= '<div class="footer">'.$this->footer.'</div>';
 		$code .= '</div>';
