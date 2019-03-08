@@ -1,0 +1,41 @@
+#formParametre{
+	border-radius: 3px;
+	font-size: 17px;
+	margin: 10px;
+}
+
+.titre{
+	font-size: 30px;
+}
+
+.acces_page{
+	margin-left: 10px;
+		float: left;
+	display: inline;
+	margin-left: 75px;
+}
+
+.acces_page div{
+	font-size: 25px;
+	text-decoration: underline;
+}
+
+.acces_page a{
+	margin-left: 20px;
+	font-size: 20px;
+}
+
+.acces_page a:hover{
+	text-decoration: underline;
+}
+
+.parametre{
+	float: right;
+	display: inline;
+	margin-right: 75px;
+}
+
+.messagePassword{
+	color: #b90000;
+	font-size: 15px;
+}
