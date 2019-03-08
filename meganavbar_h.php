@@ -29,9 +29,8 @@
         <a data-toggle="dropdown" href="javascript:void(0);" id="ddshort" class="navbar-brand couleur" aria-expanded="true"><i class="fa fa-bars"></i>&nbsp;<span class="hidden-sm hidden-md reverse"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Quelle problématique?</font></font></span><span class="caret"></span></a>
 
         <ul class="dropdown-menu liste_problematiques">
-          <li><a href="index.php?page=recherche_structure">Problématique1</a></li>
-          <li><a href="index.php?page=recherche_structure">Problématique2</a></li>
-          <li><a href="index.php?page=recherche_structure">Problématique3</a></li>
+          <li><a href="index.php?page=recherche_structure&prob=harcelement">Harcelement</a></li>
+          <li><a href="index.php?page=recherche_structure&prob=consomation">Consomation</a></li>
         </ul>
       </span>
     </div>

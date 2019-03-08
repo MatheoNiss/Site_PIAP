@@ -3,6 +3,9 @@ include "dialog_box.php";
 include "cadres.php";
 
 //----------------------------------CADRE
+if(isset($_GET['prob'])){
+    $problematique = $_GET['prob'];
+}
 
 $categorie = "page_recherche";
 
@@ -10,12 +13,12 @@ $link_db=connect_to_db();
 $cadres = get_all_cadres($link_db, $categorie);
 close_db($link_db); 
 
-function affiche_cadre($zone, $code = ""){
+function affiche_cadre($zone, $width ,$code = ""){
     global $cadres, $adminMode; 
 
     for($i=0; $i<sizeof($cadres); $i++){
         if ($cadres[$i]['zone'] == $zone){
-            $c = new Cadre($cadres[$i], $adminMode, $code);
+            $c = new Cadre($cadres[$i], $width, $adminMode, $code);
             $c->DessineCadre();
         }
         
@@ -26,13 +29,13 @@ function affiche_cadre($zone, $code = ""){
 $code_liste = "";
 $departement = -1;
 
-if(isset($_GET['departement']) AND !empty($_GET['departement'])){
+if(isset($_GET['departement']) AND !empty($_GET['departement']) AND isset($_GET['prob'])){
 
     $departement = $_GET['departement'];
     //echo "le departement est :".$departement;
 
     $link_db = connect_to_db();
-    $structures = get_structures_departement($link_db,$departement);
+    $structures = get_structures_departement($link_db,$departement, $problematique);
     close_db($link_db);
 
     $i=0;
@@ -40,7 +43,7 @@ if(isset($_GET['departement']) AND !empty($_GET['departement'])){
     $code_liste .= '<ul>';
 
     while( $i != count($structures) ){
-        $code_liste .= '<li><a>'.$structures[$i]['nom'].'</a></li>';
+        $code_liste .= '<li><a href="index.php?page=structures">'.$structures[$i]['nom'].'</a></li>';
         $i++;
     }
 
@@ -49,13 +52,17 @@ if(isset($_GET['departement']) AND !empty($_GET['departement'])){
 
 ?>
 
+<!-- =================================================================================== -->
+
 <link rel=stylesheet href="./css/recherche_structure.css">
 
 <div id="r_structure">
-    <div class="carte" id="francemap"></div>
+    <div class="row">
+        <div class="carte" id="francemap"></div>
 
-    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-        <?php if(!empty($code_liste)) affiche_cadre(1, $code_liste);?>
+        <div id="cadre_dep">
+            <?php if(!empty($code_liste)) affiche_cadre(1, "400px" ,$code_liste);?>
+        </div>
     </div>
 
     <br><br><br><br>
@@ -64,7 +71,7 @@ if(isset($_GET['departement']) AND !empty($_GET['departement'])){
 
 
 <script type="text/javascript">
-    $(document).ready(function() {
+    $(document).ready(function(){(
         $('#francemap').vectorMap({
             map: 'france_fr',
             hoverOpacity: 0.5,
@@ -79,10 +86,11 @@ if(isset($_GET['departement']) AND !empty($_GET['departement'])){
             {  
                 var scroll=getScrollPos();
                 var refreshURL = getRefreshURL('./index.php', '?page=recherche_structure', scroll);
-
-                window.location.replace(refreshURL+"&departement="+code);
+                var prob = <?= json_encode($problematique) ?>;
+                window.location.replace(refreshURL+"&departement="+code+"&prob="+prob);
             }
 
-        });
-    });
+        })
+    )});
+
 </script>

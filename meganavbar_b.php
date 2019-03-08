@@ -63,7 +63,7 @@ else $page = '';
 
   <?php }else{ ?>
    <a class="navbar-link navbar-left" href="index.php?page=accueil&deconnect=yes"><i class="fa fa-unlock-alt"></i> <span>Déconnection</span></a>
-   <a class="navbar-link navbar-left" href="index.php?page=problematique_admin"><i class="fa fa-parameter"></i> <span>Vos problématiques</span></a>
+   <a class="navbar-link navbar-left" href="index.php?page=accueil_Structures"><i class="fa fa-parameter"></i> <span>accueil structures</span></a>
   <?php } ?>
 
    <a class="navbar-link navbar-left" href="#"><i class="fa fa-gavel"></i> <span>Mentions légales</span></a>

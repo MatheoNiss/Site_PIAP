@@ -3,6 +3,7 @@
 //
 function SetScroll(scrollLeft, scrollTop){
 	window.scrollTo (scrollLeft, scrollTop);
+
 } 
 
 
@@ -85,10 +86,10 @@ function drawBorderContent(idElement, pos){
 	element = document.getElementById(idElement) ;
 	if (element) {
 		switch (pos){
-			case "top" : $(element).css("border-top", "1px solid #df9358" ); break;
-			case "bottom" : $(element).css("border-bottom", "1px solid #df9358" ); break;
-			case "left" : $(element).css("border-left", "1px solid #df9358" ); break;
-			case "right" : $(element).css("border-right", "1px solid #df9358" ); break;
+			case "top" : $(element).css("border-top", "1px solid #333" ); break;
+			case "bottom" : $(element).css("border-bottom", "1px solid #333" ); break;
+			case "left" : $(element).css("border-left", "1px solid #333" ); break;
+			case "right" : $(element).css("border-right", "1px solid #333" ); break;
 			case "none" : $(element).css("border", "none" ); break;
 		}
 	}

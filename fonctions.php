@@ -37,30 +37,6 @@ function get_all_articles($link_db, $categorie)
 	return $articles;
 }
 
-function get_all_admins($link_db){
-
-	$sql = "SELECT * FROM piap_admins"; 
-    $i=0;
-	$admins=array();
-    if($req = mysqli_query($link_db, $sql) or die("Erreur d'accès à la table 'piap_admins'<br>".$sql))
-	{		
-		while($data = mysqli_fetch_assoc($req)) 
-		{ 
-			$admins[$i]['id']=$data['id'];
-			$admins[$i]['etat']=$data['etat'];
-			$admins[$i]['nom_utilisateur']=$data['nom_utilisateur'];
-			$admins[$i]['password']=$data['password'];
-			$admins[$i]['nom']=$data['nom'];
-			$admins[$i]['prenom']=$data['prenom'];
-			$admins[$i]['email']=$data['email'];
-
-			$i++;
-			//html_entity_decode
-		} 
-	}
-	//print_r($articles);
-	return $admins;
-}
 
 function get_all_problematiques($link_db){
 
@@ -116,9 +92,9 @@ function get_all_cadres($link_db, $categorie){
 	return $cadres;
 }
 
-function get_structures_departement($link_db, $departement){
+function get_structures_departement($link_db, $departement, $problematique){
 	
-	$sql = "SELECT * FROM piap_structures WHERE departement = ".$departement." order by id DESC";
+	$sql = "SELECT * FROM piap_structures WHERE  problematique='".$problematique."' AND departement = '".$departement."'";
 	$i=0;
 	$structures=array();
 	if($req = mysqli_query($link_db, $sql) or die("Erreur d'accès à la table 'piap_structures'<br>".$sql))
@@ -126,10 +102,35 @@ function get_structures_departement($link_db, $departement){
 		while($data = mysqli_fetch_assoc($req)) 
 		{ 
 			$structures[$i]['id']=$data['id'];
-			$structures[$i]['id_admin']=$data['id_admin'];
+			$structures[$i]['id_structure']=$data['id_structure'];
 			$structures[$i]['ville']=$data['ville'];
 			$structures[$i]['departement']=$data['departement'];
 			$structures[$i]['nom']=$data['nom'];
+			$structures[$i]['problematique']=$data['problematique'];
+
+			$i++;
+			//html_entity_decode
+		} 
+	}
+	//print_r($structures);
+	return $structures;
+}
+
+function get_one_structure($link_db, $id_structure){
+	
+	$sql = "SELECT * FROM piap_structures WHERE  id_structure='".$id_structure."' ";
+	$i=0;
+	$structures=array();
+	if($req = mysqli_query($link_db, $sql) or die("Erreur d'accès à la table 'piap_structures'<br>".$sql))
+	{		
+		while($data = mysqli_fetch_assoc($req)) 
+		{ 
+			$structures[$i]['id']=$data['id'];
+			$structures[$i]['id_structure']=$data['id_structure'];
+			$structures[$i]['ville']=$data['ville'];
+			$structures[$i]['departement']=$data['departement'];
+			$structures[$i]['nom']=$data['nom'];
+			$structures[$i]['problematique']=$data['problematique'];
 
 			$i++;
 			//html_entity_decode

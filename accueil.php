@@ -78,17 +78,18 @@ function affiche_cadre($zone, $code = ""){
 <div class="container-fluid">
 	<div id="chemin" class="hidden-xs"> > <a href="./index.php"> Accueil ></a> mettre ici le titre du lien > </div>
 	<div class="row">
-		<div class="col-xs-0 col-sm-1 col-md-1 col-lg-1"></div>
-		<div class="col-xs-12 col-sm-5 col-md-5 col-lg-5">
+		<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
 			<!--<div id="titre"><h2>Titre de la page </h2><hr></div>-->
 			<?php afficheZone(0); ?>
 		</div>
-		<div class="col-xs-0 col-sm-1 col-md-1 col-lg-1"></div>
-		<div class="col-xs-12 col-sm-5 col-md-5 col-lg-5">
+		<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
 			<!--<div id="titre"><h2>Titre de la page </h2><hr></div>-->
 			<?php afficheZone(1); ?>
 		</div>
-
+        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+            <!--<div id="titre"><h2>Titre de la page </h2><hr></div>-->
+            <?php afficheZone(2); ?>
+        </div>
 	</div>
 
 	<!--<div class="row">

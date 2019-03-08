@@ -2,13 +2,13 @@
 #ZoneArticle { position : relative; width: 100%; margin: 10px auto; font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;  border:none;}
 	
 	/*#ZoneArticle .header {width: 100%;height: 24px; background:#844848; border:1px solid #844848;}*/
-	#ZoneArticle .header {width: 100%; min-height: 24px; background:#F5F6CE; border:1px solid #df9358; border-bottom:none;color:#000;}
+	#ZoneArticle .header {width: 100%; min-height: 24px; background:#e6e2e2; border:1px solid #333; border-bottom:none;color:#000;}
 		#ZoneArticle .header .icone{ float:left; width: 24px; height: 100%; padding:2px 5px;}
 		#ZoneArticle .header .vide{ float:left; width: 1px; height: 100%;}
 		#ZoneArticle .header .texteTitre{padding-left:5px;min-width:80%;  font-size: 18px;  height: 100%;   line-height:18px; }
 	
 
-	#ZoneArticle .iconesPanel {margin-bottom:0px; width: 100%; height: 24px; border:1px solid #844848; background-color: #844848;}	
+	#ZoneArticle .iconesPanel {margin-bottom:0px; width: 100%; height: 24px; border:1px solid #333; background-color: #333;}	
 	#ZoneArticle .iconesPanel span {font-size: 12px; color:#ffffff; font-style: italic; margin-left:10px;}
 		#ZoneArticle .iconesPanel  .num {float : left; width : 50px; height: 100%; color:#fff; line-height: 24px; border-right:1px solid #fff;}
 		#ZoneArticle .iconesPanel  .num span {font-size: 12px; color:#ffffff; font-style: italic; margin-left:10px;}
@@ -34,14 +34,14 @@
 			#ZoneArticle .iconesPanel  .icone_on { background: transparent url("../images/icones/icone.png") 0px 50%  no-repeat;}
 			#ZoneArticle .iconesPanel  .icone_off { background: transparent url("../images/icones/icone_off.png") 0px 50%  no-repeat;}
 		
-	#ZoneArticle .buttonPanel {width: 100%; height:35px;border:0px solid #844848;}
-	#ZoneArticle .buttonPanel button {float:right;}
+	#ZoneArticle .buttonPanel {width: 100%; height:35px;border:0px solid #333;}
+	#ZoneArticle .buttonPanel button {float:right; background-color: #333; border-color: #333;}
 
-	#ZoneArticle .body{ position : relative ; width: 100%; min-height: 50px; border:1px solid #df9358; border-bottom:none;border-top:none;}
+	#ZoneArticle .body{ position : relative ; width: 100%; min-height: 50px; border:1px solid #333; border-bottom:none;border-top:none;}
 		#ZoneArticle .body .texteDuContenu{  margin: 0px auto;  min-height: 20px;  padding:5px; width: 95%; font-size: 16px; text-align:justify;}
 		#ZoneArticle .body .btnMore{font-style:italic; color:#844848; word-wrap : break-word;}
 	
-	#ZoneArticle .footer{ width: 100%; min-height: 22px; font-family:verdana; font-size: 10px; color : #000; background-color:#F5F6CE; line-height:22px; border:1px solid #df9358; border-top:none}
+	#ZoneArticle .footer{ width: 100%; min-height: 22px; font-family:verdana; font-size: 10px; color : #000; background-color:#e6e2e2; line-height:22px; border:1px solid #333; border-top:none}
 		#ZoneArticle .footer .nomAuteur{ text-align: left;  margin-right:10px;	min-width:100px;}
 		#ZoneArticle .footer .dateCreation{ float:right; font-style:italic; text-align: right; margin-right:10px;}
 		/*

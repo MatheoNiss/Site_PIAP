@@ -2,17 +2,19 @@
 
 #cadreMN{
 	position: relative;
-	width: 500px;
 	border: 2px solid #333333;
-	
+	margin: 10px;
 }
 
 #cadreMN .header{
 	width: 100%;
 	height:30px;
-	background-color: #cdcdcd;
+	background-color: #333333;
 	text-align: center;
 	line-height: 30px;
+	font-weight:bold;
+	color: #ffffff;
+	font-size: 20px;
 }
 
 #cadreMN .footer{
@@ -52,7 +54,7 @@
 
 #CadreAdminBarMN{
 	height: 24px;
-	width: 496px;
+	width: 100%;
 	background-color: #333;/*#844848;*/
 }
 

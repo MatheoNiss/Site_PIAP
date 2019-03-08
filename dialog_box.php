@@ -5,7 +5,7 @@
 
 <div id="DialogBox">
 	<div id="HeaderDialogBox">
-	<div id="iconeBox"><img src="./images/lightbox/dialogBox/question32.png" border="no" /></div>
+	<!--<div id="iconeBox"><img src="./images/lightbox/dialogBox/question32.png" border="no" /></div>-->
 	<div id="titleBox">
 	Titre ... 
 	</div>

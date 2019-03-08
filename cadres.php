@@ -77,7 +77,7 @@ class Cadre
     private $id, $zone, $visible, $largeur, $icone, $titre, $contenu, $footer;
     private $show_icone, $show_titre, $show_header, $show_footer, $show_boutton, $show_image, $show_border;
 	 
-	 public function Cadre($cadre, $adminMode=0, $code){
+	 public function Cadre($cadre, $width, $adminMode=0, $code){
 	 	if(!empty($code)){
 	 		$this->code = $code;
 	 	}
@@ -88,7 +88,7 @@ class Cadre
 	 	$this->zone = $cadre['zone'];
 	 	$this->visible = $cadre['visible'];
 
-	 	$this->largeur = $cadre['largeur'];
+	 	$this->largeur = $width;
 	 	$this->icone = $cadre['icone'];
 	 	$this->image = $cadre['image'];
 
@@ -195,7 +195,7 @@ class Cadre
 	 	$header = "";
 
 	 	if($this->show_header){
-	 		$header .= '<div class="header">';
+	 		$header .= '<div class= "header">';
 	 		if($this->show_icone) $header .= '<div class="icone_l"></div>';
 	 		if($this->show_titre) $header .=  $this->titre;
 	 		if($this->show_image) $header .= '<div class="icone_r"></div>';	 		
@@ -208,24 +208,27 @@ class Cadre
 	 
 	 private function DrawCadre(){
 	 	$code = "";
+	 	$classCadre = "cadreMN".$this->id;
 
-	 	$code .= '<div id="cadreMN">';
+	 	$code .= '<div class="'.$classCadre.'" id="cadreMN">';
 		if ($this->adminMode) $code .= 	$this->DrawAdminBar();
 	 	$code .= 	$this->displayHeader();
 	 	$code .= '	<div class="contenu">'.$this->contenu.'</div>';
-	 	echo $this->code;
 	 	$code .= '  <div">'.$this->code.'</div>';
 	 	if($this->show_footer) $code .= '<div class="footer">'.$this->footer.'</div>';
 		$code .= '</div>';
+
+		$code  .= '<script>';
+		$code .= "	$(\".".$classCadre."\").css(\"width\", \"".$this->largeur."\"); ";
+		$code .= '</script>';
+
 		echo $code;
 		//$code .= '   <i class="fa fa-warning" style="font-size: 30px;"></i>';
-
 	 }
 
 	 public function DessineCadre(){
 	 	$this->DrawCadre();
 	 }
-
 }
 
 ?> 

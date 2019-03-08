@@ -22,6 +22,7 @@ function get_admin($login, $mot_de_passe){
             $admin['prenom']=$data['prenom'];
             $admin['login']=$data['login']; 
             $admin['password']=$data['password']; 
+            $admin['id_structure']=$data['id_structure']; 
         } 
     }
     $num_row = mysqli_num_rows($req);
@@ -57,11 +58,15 @@ else {
     $id_session=session_id();
     //Initialisation des variables de session
     $_SESSION['id'] = $id_session;
+    $_SESSION['id_admin'] = $admin['id'];
+    $_SESSION['login'] = $admin['login'];
+    $_SESSION['id_structure']= $admin['id_structure'];
     $_SESSION['admin_name'] = $admin['nom']."  ".$admin['prenom'];
     $_SESSION['type']="admin";
-    $_SESSION['auteur'] = ucfirst(strtolower($admin['prenom']))."  ".strtoupper ($admin['nom']);
 
-    $url = "Refresh:0; url='./index.php".$page.$niveau.$id_article."'";
+    //$url = "Refresh:0; url='./index.php".$page.$niveau.$id_article."'";
+
+    $url = "Refresh:0; url='./index.php?page=accueil_Structures";
 
     global $adminMode;
     $adminMode = true;
