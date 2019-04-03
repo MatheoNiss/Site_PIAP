@@ -13,7 +13,7 @@ function setCadreOnOrOff($id, $etat){
 	$sql = "UPDATE piap_cadres SET visible = ".$etat." WHERE id = '".$id."';" ;
 	
 	//$mysqli->set_charset("SET NAMES utf8");
-	$req = mysqli_query($mysqli, $sql)  or exit(mysql_error() . "article_SqlTableManageFunctions.php - setCadreOnOrOff() : Erreur pendant la modification <br/>".$sql);
+	$req = mysqli_query($mysqli, $sql)  or exit(mysql_error() . "cadre_SqlTableManageFunctions.php - setCadreOnOrOff() : Erreur pendant la modification <br/>".$sql);
 	//echo "<br>requette SQL : <br><br>".$sql;
 	//echo "<br>Retour update : <br><br>".$req;
 

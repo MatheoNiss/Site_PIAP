@@ -438,11 +438,11 @@
     this.index = WorldMap.mapIndex;
     this.label = jQuery('<div/>').addClass('jqvmap-label').appendTo(jQuery('body'));
 
-    if(params.enableZoom)
+    /*if(params.enableZoom)
     {
       jQuery('<div/>').addClass('jqvmap-zoomin').text('+').appendTo(params.container);
       jQuery('<div/>').addClass('jqvmap-zoomout').html('&#x2212;').appendTo(params.container);
-    }
+    }*/
 	
 	map.countries = [];
 	
@@ -561,7 +561,7 @@
       this.setValues(params.values);
     }
 
-    this.bindZoomButtons();
+   // this.bindZoomButtons();
 
     WorldMap.mapIndex++;
   };
@@ -578,9 +578,9 @@
     countries: {},
     countriesColors: {},
     countriesData: {},
-    zoomStep: 1.4,
+    /*zoomStep: 1.4,
     zoomMaxStep: 4,
-    zoomCurStep: 1,
+    zoomCurStep: 1,*/
 
     setColors: function (key, color)
     {
@@ -784,7 +784,7 @@
       });
     },
 
-    bindZoomButtons: function ()
+   /* bindZoomButtons: function ()
     {
       var map = this;
       var sliderDelta = (jQuery('#zoom').innerHeight() - 6 * 2 - 15 * 2 - 3 * 2 - 7 - 6) / (this.zoomMaxStep - this.zoomCurStep);
@@ -821,7 +821,7 @@
           jQuery('#zoomSlider').css('top', parseInt(jQuery('#zoomSlider').css('top'), 10) + sliderDelta);
         }
       });
-    },
+    },*/
 
     setScale: function (scale)
     {

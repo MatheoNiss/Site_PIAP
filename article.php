@@ -180,21 +180,23 @@ function addArticle(articleFields, cbIdTab){
 		var articleFooter = true ;
 		var articleIcone = true ;
 		
+		var id_structure = articleFields['id_structure'];
 		var categorieArticle = articleFields['categorie'];
 		var niveauRessource = articleFields['niveau'];
 		var zoneArticle = articleFields['zone'];
 		var css = articleFields['css'];
 		var tag = articleFields['tag'];
+		var problematique = articleFields['problematique'];
 
 		var url = "./admin/article_SqlTableManageFunctions.php";
 		//alert("titre = "+titreNouvelArticle+"\n - contenu = "+contenuNouvelArticle+"\n  - icone = "+iconeNouvelArticle+"\n  - auteur =  "+auteurNouvelArticle);
 		//alert("categorie = "+categorieArticle+"\nniveau = "+niveauRessource);
 		
-		var donnees = { 'todo':todo, 'icone':iconeNouvelArticle, 'titre':titreNouvelArticle, 
+		var donnees = { 'todo':todo, 'icone':iconeNouvelArticle,  'titre':titreNouvelArticle, 'problematique':problematique,
 						'categorie':categorieArticle, 'niveau':niveauRessource, 'zone':zoneArticle,
 						'contenu':contenuNouvelArticle, 'auteur':auteurNouvelArticle,
 						'showHeader':articleHeader, 'showFooter':articleFooter, 'showBorder':articleBorder, 'showIcone':articleIcone,
-						'css':css, 'tag':tag
+						'css':css, 'tag':tag, 'id_structure':id_structure
 					};
 		//alert(categorieArticle);
 		$.post(url , donnees )
@@ -237,7 +239,7 @@ class Article
 { 
 
     // déclaration des propriétés
-    private $id, $id_titre, $categorie, $niveau, $zone,  $icone, $titre, $contenu, $auteur, $date_creation;
+    private $id, $problematique, $categorie, $niveau, $zone,  $icone, $titre, $contenu, $auteur, $date_creation, $id_structure;
 	private $show_header, $show_footer, $show_border, $show_icone, $show_delete, $css, $tag;
 	private $marqueDeSplit;
 	private $adminMode;
@@ -248,8 +250,9 @@ class Article
 	
 	public function Article($article, $adminMode=false){
 		$this->id = $article['id'];
-		$this->id_titre = $article['id_titre'];
+		$this->problematique = $article['problematique'];
 		//$this->categorie = $article['categorie'];
+		$this->id_structure = $article["id_structure"];
 		$buf = explode ("|", $article['categorie']) ;
 		$this->categorie = $buf[0];
 		$this->niveau = "";
@@ -291,12 +294,14 @@ class Article
 	//dessiner les boutons radio et le bouton 'enregistrer' à la droite du titre du nouvel article à ajouter
 private function drawNewButtonsPanel(){
 		$fields = array();
+		$fields['id_structure'] =$this->id_structure;
 		$fields['categorie'] =$this->categorie;
 		$fields['niveau'] =$this->niveau;
 		$fields['zone'] =$this->zone;
 		$fields['auteur'] =$this->auteur;
 		$fields['css'] =$this->css;
 		$fields['tag'] =$this->tag;
+		$fields['problematique'] =$this->problematique;
 		
 		$articleFields= json_encode($fields);
 		$articleFields=str_replace('"', "'", $articleFields);

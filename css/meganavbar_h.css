@@ -19,11 +19,13 @@ top: 100%;
 border-top-width: 0px; 
 border-bottom-width: 1px; 
 border-radius: 0px 0px 4px 4px; 
-padding: 15px; 
-margin-left : 350px;
+margin-left : 220px;
 }
 
-#navbar_h .liste_problematiques li{
-	
+.btn_sup{ color: #428bca; text-decoration: none; background-color: transparent; border: none;}
+
+.sousmenu2{
+	display: none;
+	max-height: 132px;
 }
 

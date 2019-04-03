@@ -20,7 +20,7 @@ function get_article($id)
 {	global $host, $user, $password, $bdd;
 	
 	$mysqli  = new mysqli($host, $user, $password, $bdd);
-	
+	 
 	if (mysqli_connect_error()) {
 		die('Erreur de connexion (' . mysqli_connect_errno() . ') '. mysqli_connect_error());
 	}
@@ -33,7 +33,8 @@ function get_article($id)
 		while($data = mysqli_fetch_assoc($req)) 
 		{ 
 			$article['id']=$data['id'];
-			$article['id_titre']=$data['id_titre'];
+			$article['problematique']=$data['problematique'];
+			$article['id_structure']=$data['id_structure'];
 			$article['categorie']=$data['categorie'];
 			$article['zone']=$data['zone'];
 			$article['icone']=$data['icone'];
@@ -230,7 +231,7 @@ function setArticleIconeOnOrOff($id, $etat){
 //--------------------------------------------------------------------------------------------------------
 
 //Inserer un article dans la table des piap_articles
-function insert_article($link_db, $icone, $titre, $contenu, $auteur, $categorie, $niveau, $zone,  $etat, $css, $tag)
+function insert_article($link_db, $icone, $titre, $problematique, $contenu, $auteur, $categorie, $niveau, $zone,  $etat, $css, $tag, $id_structure)
 {
 	global  $ressourceDirBase;
 	$categorie_niveau = $categorie;
@@ -251,6 +252,8 @@ function insert_article($link_db, $icone, $titre, $contenu, $auteur, $categorie,
 	
 	$sql = "INSERT INTO piap_articles ( 
 				categorie,
+				id_structure,
+				problematique,
 				zone,
 				icone,
 				titre,	
@@ -267,6 +270,8 @@ function insert_article($link_db, $icone, $titre, $contenu, $auteur, $categorie,
 								
 			VALUES	('".
 				$categorie_niveau."', '".
+				$id_structure."', '".
+				$problematique."', '".
 				$zone."', '".
 				$icone."', '".
 				$titre."', '".
@@ -287,7 +292,7 @@ function insert_article($link_db, $icone, $titre, $contenu, $auteur, $categorie,
 	//echo "<br>Retour update : <br><br>".$req;
 	$lastInsertID = mysqli_insert_id($link_db);
 	
-	if($categorie=="ressources_pedagogiques"){
+	/*if($categorie=="ressources_pedagogiques"){
 		if($titre == "") $titre = "Accèder à la ressource";
 		$carousselDir = $lastInsertID."/caroussel/";
 		//insertion d'une ligne dans la table tec_ressources
@@ -308,12 +313,12 @@ function insert_article($link_db, $icone, $titre, $contenu, $auteur, $categorie,
 		$oldumask = umask(0); 
 		if(! mkdir($ressourceDirBase.$carousselDir."/", 0777)) { echo "Echec dans la création du dossier".$ressourceDirBase.$carousselDir;}
 		umask($oldumask); 
-		/*
+		
 		if(! mkdir($ressourceDirBase.$lastInsertID."/", 0770)) { echo "Echec dans la création du dossier".$ressourceDirBase.$lastInsertID;}
 		if(! mkdir($ressourceDirBase.$carousselDir."/", 0770)) { echo "Echec dans la création du dossier".$ressourceDirBase.$carousselDir;}
 		
-		*/
-	}
+		
+	}*/
 	
 }
 
@@ -457,7 +462,7 @@ if(isset($_POST['todo']))
 						$etat['show_footer'] =$_POST['showFooter'];
 						$etat['show_border'] =$_POST['showBorder'];
 						$etat['show_icone'] =$_POST['showIcone'];
-						insert_article($link_db, $_POST['icone'], $_POST['titre'], $_POST['contenu'], $_POST['auteur'], $_POST['categorie'], $_POST['niveau'],$_POST['zone'], $etat, $_POST['css'], $_POST['tag']);
+						insert_article($link_db, $_POST['icone'], $_POST['titre'], $_POST['problematique'], $_POST['contenu'], $_POST['auteur'], $_POST['categorie'], $_POST['niveau'],$_POST['zone'], $etat, $_POST['css'], $_POST['tag'], $_POST['id_structure']);
 						close_db($link_db);	
 						//le rafrechissement de l'ecran se fera au retour dans article.php addArticle(...) --- done(...)
 						break;

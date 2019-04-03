@@ -41,6 +41,9 @@ function get_admin($login, $mot_de_passe){
 //print_r($_POST);
 $admin = get_admin(strtolower($_POST['login']),$_POST['mdp'] );
 
+if($admin['id'] == -1) $type = "superAdmin";
+else $type = "admin";
+
 $page = "";
 if (isset($_GET['page']) && ($_GET['page']!="")) $page = "?page=".$_GET['page'];
 
@@ -60,13 +63,14 @@ else {
     $_SESSION['id'] = $id_session;
     $_SESSION['id_admin'] = $admin['id'];
     $_SESSION['login'] = $admin['login'];
-    $_SESSION['id_structure']= $admin['id_structure'];
+    if($type == "admin")$_SESSION['id_structure']= $admin['id_structure'];
     $_SESSION['admin_name'] = $admin['nom']."  ".$admin['prenom'];
-    $_SESSION['type']="admin";
+    $_SESSION['type']=$type;
 
     //$url = "Refresh:0; url='./index.php".$page.$niveau.$id_article."'";
 
-    $url = "Refresh:0; url='./index.php?page=accueil_Structures";
+    if($type == "admin") $url = "Refresh:0; url='./index.php?page=accueil_Structures";
+    else $url = "Refresh:0; url='./index.php?page=accueil_SuperAdmin";
 
     global $adminMode;
     $adminMode = true;

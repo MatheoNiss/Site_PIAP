@@ -3,8 +3,8 @@ include "dialog_box.php";
 include "cadres.php";
 
 //----------------------------------CADRE
-if(isset($_GET['prob'])){
-    $problematique = $_GET['prob'];
+if(isset($_GET['problematique'])){
+    $problematique = $_GET['problematique'];
 }
 
 $categorie = "page_recherche";
@@ -29,7 +29,7 @@ function affiche_cadre($zone, $width ,$code = ""){
 $code_liste = "";
 $departement = -1;
 
-if(isset($_GET['departement']) AND !empty($_GET['departement']) AND isset($_GET['prob'])){
+if(isset($_GET['departement']) AND !empty($_GET['departement']) AND isset($_GET['problematique'])){
 
     $departement = $_GET['departement'];
     //echo "le departement est :".$departement;
@@ -43,7 +43,7 @@ if(isset($_GET['departement']) AND !empty($_GET['departement']) AND isset($_GET[
     $code_liste .= '<ul>';
 
     while( $i != count($structures) ){
-        $code_liste .= '<li><a href="index.php?page=structures">'.$structures[$i]['nom'].'</a></li>';
+        $code_liste .= '<li><a href="index.php?page=structures&ids='.$structures[$i]['id'].'&problematique='.$problematique.'">'.$structures[$i]['nom'].' ('.$structures[$i]['ville'].')</a></li>';
         $i++;
     }
 
@@ -57,7 +57,8 @@ if(isset($_GET['departement']) AND !empty($_GET['departement']) AND isset($_GET[
 <link rel=stylesheet href="./css/recherche_structure.css">
 
 <div id="r_structure">
-    <div class="row">
+    <h1>Dans quel département êtes vous?</h1>
+    <div class="row" style="height:425px;">
         <div class="carte" id="francemap"></div>
 
         <div id="cadre_dep">
@@ -87,7 +88,7 @@ if(isset($_GET['departement']) AND !empty($_GET['departement']) AND isset($_GET[
                 var scroll=getScrollPos();
                 var refreshURL = getRefreshURL('./index.php', '?page=recherche_structure', scroll);
                 var prob = <?= json_encode($problematique) ?>;
-                window.location.replace(refreshURL+"&departement="+code+"&prob="+prob);
+                window.location.replace(refreshURL+"&departement="+code+"&problematique="+prob);
             }
 
         })

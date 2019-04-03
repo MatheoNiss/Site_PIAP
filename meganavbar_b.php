@@ -6,7 +6,7 @@ else $page = '';
  <div class="container-fluid">
   <!-- Brand and toggle get grouped for better mobile display -->
 
-  <?php if($adminMode == false){ ?>
+  <?php if(!$adminMode){ ?>
 
    <ul class="nav navbar-nav navbar-left">
     <li class="dropdown-grid">
@@ -63,7 +63,6 @@ else $page = '';
 
   <?php }else{ ?>
    <a class="navbar-link navbar-left" href="index.php?page=accueil&deconnect=yes"><i class="fa fa-unlock-alt"></i> <span>Déconnection</span></a>
-   <a class="navbar-link navbar-left" href="index.php?page=accueil_Structures"><i class="fa fa-parameter"></i> <span>accueil structures</span></a>
   <?php } ?>
 
    <a class="navbar-link navbar-left" href="#"><i class="fa fa-gavel"></i> <span>Mentions légales</span></a>

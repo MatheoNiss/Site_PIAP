@@ -16,7 +16,8 @@ close_db($link_db);
 function afficheNouvelleZoneArticle($zone){
 	global $adminMode, $categorie;
 	$newArticle['id'] = 0;
-	$newArticle['id_titre'] = -1;
+    $newArticle['id_structure'] = -1;
+	$newArticle['problematique'] = -1;
 	$newArticle['categorie'] = $categorie;
 	$newArticle['zone'] = $zone;
 	$newArticle['icone'] = "icon-tag";
@@ -39,7 +40,7 @@ function afficheNouvelleZoneArticle($zone){
 function afficheZone($zone){
 	global $adminMode, $articles, $categorie, $dbTable;
 
-	if($adminMode){
+	if($adminMode && $_SESSION['type'] != 'admin'){
 		afficheNouvelleZoneArticle($zone);
 				
 		for($i=0; $i<sizeof($articles); $i++){
@@ -53,7 +54,7 @@ function afficheZone($zone){
 		for($i=0; $i<sizeof($articles); $i++){
 			if($articles[$i]['valide'] != false){
 				if ($articles[$i]['zone'] == $zone){
-					$art1 = new Article($articles[$i], $adminMode);
+					$art1 = new Article($articles[$i], false);
 					$art1->displayArticle();
 				}
 			}
@@ -78,15 +79,15 @@ function affiche_cadre($zone, $code = ""){
 <div class="container-fluid">
 	<div id="chemin" class="hidden-xs"> > <a href="./index.php"> Accueil ></a> mettre ici le titre du lien > </div>
 	<div class="row">
-		<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+		<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
 			<!--<div id="titre"><h2>Titre de la page </h2><hr></div>-->
 			<?php afficheZone(0); ?>
 		</div>
-		<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+		<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
 			<!--<div id="titre"><h2>Titre de la page </h2><hr></div>-->
 			<?php afficheZone(1); ?>
 		</div>
-        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+        <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
             <!--<div id="titre"><h2>Titre de la page </h2><hr></div>-->
             <?php afficheZone(2); ?>
         </div>

@@ -15,7 +15,7 @@
 		}
 	}
 
-	if (isset($_SESSION['type'])){	if($_SESSION['type']=="admin")	{ $adminMode = true; }	} 
+	if (isset($_SESSION['type'])){	if($_SESSION['type']=="admin" || $_SESSION['type']=="superAdmin" )	{ $adminMode = true; }	} 
 
 
 

@@ -2,20 +2,35 @@
 include_once "article.php";
 include_once "cadres.php";
 
+if(isset($_SESSION['id_structure'])&& $adminMode == true){ 
+	$id_structure = $_SESSION['id_structure'];
+	if(isset($_GET['problematique'])) $problematique = $_GET['problematique'];
+	else if(isset($_SESSION['problematique'])) $problematique = $_SESSION['problematique'];
+
+	 $_SESSION['problematique'] = $problematique;
+}
+else if(isset($_GET['ids']) && isset($_GET['problematique'])){ 
+	$id_structure = $_GET['ids'];
+	$problematique = $_GET['problematique'];
+}
+
+settype($id_structure, "int");	
+
+/*$id_structure = 1;
+$problematique = 1;*/
 
 $categorie = "page_structures";
 $link_db=connect_to_db();
-$articles = get_all_articles($link_db, $categorie);
+$articles = get_all_articles($link_db, $categorie, $id_structure,$problematique);
 $cadres = get_all_cadres($link_db, $categorie);
 close_db($link_db);	
 
 
-
-
 function afficheNouvelleZoneArticle($zone){
-	global $adminMode, $categorie;
+	global $adminMode, $categorie, $id_structure, $problematique;
 	$newArticle['id'] = 0;
-	$newArticle['id_titre'] = -1;
+	$newArticle['problematique'] = $problematique;
+	$newArticle['id_structure'] = $id_structure;
 	$newArticle['categorie'] = $categorie;
 	$newArticle['zone'] = $zone;
 	$newArticle['icone'] = "icon-tag";
@@ -36,11 +51,10 @@ function afficheNouvelleZoneArticle($zone){
 }
 
 function afficheZone($zone){
-	global $adminMode, $articles, $categorie, $dbTable;
+	global $adminMode, $articles, $categorie, $dbTable, $id_structure;
 
 	if($adminMode){
 		afficheNouvelleZoneArticle($zone);
-				
 		for($i=0; $i<sizeof($articles); $i++){
 			if ($articles[$i]['zone'] == $zone){
 					$art1 = new Article($articles[$i], $adminMode);

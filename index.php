@@ -70,6 +70,7 @@ include "fonctions.php";
         <?php 
           $pagesDuSite=array( 'accueil'=>'accueil',
                               'accueil_Structures' =>'accueil_Structures',
+                              'accueil_SuperAdmin' =>'accueil_SuperAdmin',
                               'structures' =>'structures',
                               'recherche_structure' =>'recherche_structure');
               
@@ -91,7 +92,7 @@ include "fonctions.php";
 
 
        <!-- ***********************************Footer ****************************************-->
-       <div>
+       <div is="footer">
        <?php include "meganavbar_b.php"; ?>
          
         </div>
